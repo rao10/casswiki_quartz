@@ -1,4 +1,4 @@
-This page provides several options for browsing among all the contents of **CassWiki**: lists of topics, as well as the categories of the wiki. If you'd like to begin with a quick introduction to some key subjects, see [[Casswiki/CassWiki Reader's guide|CassWiki:Reader's guide]].
+This page provides several options for browsing among all the contents of **CassWiki**: lists of topics, as well as the categories of the wiki. If you'd like to begin with a quick introduction to some key subjects, see [[CassWiki Reader's guide|CassWiki:Reader's guide]].
 
 Main topics
 -----------
@@ -12,7 +12,7 @@ Below are the main topics of the wiki. From each of them, you can in turn reach 
 *   [[Esoterica]] (Esoteric matters that don't fit specifically into any of the other main topics.)
 *   [[Fourth Way]] (A body of teaching on the possible spiritual development of man, introduced to the Western culture by George Ivanovitch Gurdjieff in the first half of the 20th century.)
 *   [[Health and wellness]] (The state of our body not only affects our physical capabilities, but also our emotional health and intellectual ability; and conversely, our emotional health affects our physical health along with our thinking. This is one of the most important topics for anyone seeking to work on him- or herself or to be healthy and well in our all too sick world.)
-*   [[Casswiki/High strangeness/High strangeness]] (High strangeness refers to a global phenomenon so strange and foreign to our daily terrestrial mode of thought, which it carries with it many implications of the existence of intelligences other than our own.)
+*   [[High strangeness]] (High strangeness refers to a global phenomenon so strange and foreign to our daily terrestrial mode of thought, which it carries with it many implications of the existence of intelligences other than our own.)
 *   [[History]]
 *   [[Matrix control system]] (A metaphorical description of present day Earth reality, by analogy with several concepts from the 1999 movie hit _The Matrix_.)
 *   [[Movies and TV series]] (Movies – fiction and non-fiction alike – on different topics, and recommended watching. Occasionally, a TV series may also fall into this category.)

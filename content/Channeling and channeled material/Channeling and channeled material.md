@@ -121,7 +121,7 @@ Further readings
 ----------------
 
 *   _[[The Wave Series]]_ by Laura Knight-Jadczyk
-*   _[[Casswiki/High strangeness/High strangeness]]_ by Laura Knight-Jadczyk
+*   _[[High Strangeness - Hyperdimensions and the Process of Alien Abduction|High strangeness]]_ by Laura Knight-Jadczyk
 *   _[[Channeling, Investigations on Receiving Information from Paranormal Sources|Channeling: Investigations on Receiving Information from Paranormal Sources]]_ by Jon Klimo (1988)
 *   _[[Reincarnation, Channelling and Possession]]_ by Loyd Auerbach (1993)
 *   _[[Many Voices - The Autobiography of a Medium|Many Voices: The Autobiography of a Medium]]_ by Eileen J. Garrett (1968)
@@ -143,7 +143,7 @@ References
 ----------
 
 1.  [↑](#cite_ref-1) [SOTT Podcast #33: SRT and Channelling (transcript)](https://cassiopaea.org/forum/index.php/topic,6154.0.html); 21 Jan 2006.
-2.  [↑](#cite_ref-2) Knight-Jadczyk, Laura. _[High Strangeness: Hyperdimensions and the Process of Alien Abduction]([[Casswiki/High strangeness/High strangeness]])_, p. 359-360. Grande Prairie: Red Pill Press, 2008.
+2.  [↑](#cite_ref-2) Knight-Jadczyk, Laura. _[[High Strangeness - Hyperdimensions and the Process of Alien Abduction|High Strangeness: Hyperdimensions and the Process of Alien Abduction]]_, p. 359-360. Grande Prairie: Red Pill Press, 2008.
 3.  [↑](#cite_ref-3) [Cassiopaean Session 25 May 2008](https://cassiopaea.org/forum/index.php/topic,18665.0.html)
 
 External links
@@ -195,7 +195,7 @@ All ‘Channeling and channeled material’ topics
 *   [[Graduation to fourth density]] (There appears to be a certain benchmark that a being must meet in order to pass from third density incarnations to fourth density ones. Additionally, it seems that in some cases this can take place while in the body. This benchmark is variously described but all descriptions raise more questions than they answer. We will look at diverse aspects mentioned by different sources below.)
 *   [[Group transduction of energy]] (Groups of people represent different spiritual principles at different times.)
 *   [[I Ching]] (The Book of Changes or the I Ching is among the oldest writings preserved to the present day.)
-*   [[Casswiki/Cassiopaean Experiment/Kantek]] (The fifth planet of the solar system, destroyed over 80,000 years ago.)
+*   [[Kantek]] (The fifth planet of the solar system, destroyed over 80,000 years ago.)
 *   [[Law of Confusion]] (A principle whereby a higher density service to others entity is prohibited from abridging the free will of lower density beings it communicates with.)
 *   [[Logos]] (Word of God.)
 *   [[Love]] (There is a bewildering range of meanings and connotations associated with love. The Cassiopaeans have said that love is light is knowledge.)

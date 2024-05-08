@@ -12,6 +12,6 @@ See also
 --------
 
 *   [[UFO phenomenon]]
-*   [[Casswiki/Books/High Strangeness]]
+*   [[High Strangeness]]
 *   [[Window faller]]
 *   Bermuda Triangle

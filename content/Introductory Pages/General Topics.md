@@ -178,7 +178,7 @@
 ### J
 [[Juvenile vs. adult dictionary]]
 ### K
-[[Casswiki/Cassiopaean Experiment/Kantek]]
+[[Kantek]]
 [[Karma]]
 [[Ketogenic diet]]
 [[Knowledge]]

@@ -121,7 +121,7 @@ Further readings
 ----------------
 
 *   _[[The Wave Series]]_ by Laura Knight-Jadczyk
-*   _[[Casswiki/High strangeness/High strangeness|High Strangeness]]_ by Laura Knight-Jadczyk
+*   _[[High Strangeness - Hyperdimensions and the Process of Alien Abduction|High Strangeness]]_ by Laura Knight-Jadczyk
 *   _[[Channeling, Investigations on Receiving Information from Paranormal Sources|Channeling: Investigations on Receiving Information from Paranormal Sources]]_ by Jon Klimo (1988)
 *   _[[Reincarnation, Channelling and Possession]]_ by Loyd Auerbach (1993)
 *   _[[Many Voices - The Autobiography of a Medium|Many Voices: The Autobiography of a Medium]]_ by Eileen J. Garrett (1968)
@@ -143,7 +143,7 @@ References
 ----------
 
 1.  [↑](#cite_ref-1) [SOTT Podcast #33: SRT and Channelling (transcript)](https://cassiopaea.org/forum/index.php/topic,6154.0.html); 21 Jan 2006.
-2.  [↑](#cite_ref-2) Knight-Jadczyk, Laura. _[High Strangeness: Hyperdimensions and the Process of Alien Abduction]([[Casswiki/High strangeness/High strangeness]])_, p. 359-360. Grande Prairie: Red Pill Press, 2008.
+2.  [↑](#cite_ref-2) Knight-Jadczyk, Laura. _[[High Strangeness - Hyperdimensions and the Process of Alien Abduction|High Strangeness: Hyperdimensions and the Process of Alien Abduction]]_, p. 359-360. Grande Prairie: Red Pill Press, 2008.
 3.  [↑](#cite_ref-3) [Cassiopaean Session 25 May 2008](https://cassiopaea.org/forum/index.php/topic,18665.0.html)
 
 External links

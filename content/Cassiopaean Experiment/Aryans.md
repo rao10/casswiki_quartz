@@ -8,6 +8,6 @@ The term "Aryan" has been variously used to designate race or tribal unit within
 See also
 --------
 
-*   [[Casswiki/Cassiopaean Experiment/Kantek]]
+*   [[Kantek]]
 *   [[Celts]]
 *   [[Circle people vs. pyramid people|Circle people vs. pyramid people‎]]

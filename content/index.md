@@ -5,7 +5,7 @@ title: Welcome to Casswiki
 
 Content
 -------
-_See [[Browse CassWiki|Casswiki:Browse]] for further browsing options, and [[Casswiki/CassWiki Reader's guide]] for a brief introduction to significant topics._
+_See [[Browse CassWiki|Casswiki:Browse]] for further browsing options, and [[CassWiki Reader's guide]] for a brief introduction to significant topics._
 
 Below are the main topics of the wiki. From each of them, you can in turn reach its subtopics.
 

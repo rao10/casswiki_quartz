@@ -23,18 +23,18 @@ Vallee's main arguments are: There is a phenomenon which can be divided into 1. 
 
 From the [[FOTCM]]'s perspective, most of the UFO phenomenon amounts to the activity of [[Fourth density service to self being|fourth density service to self entities]]. Their goals are various, including abduction for genetical manipulation and hybridization or for implanting devices for remote tracking or control of individuals of interest. This interference is an escalation of millennia long manipulations, among whose effects we have the launching of the major monotheistic religions and social control through fomenting wars between them. Not nearly all events are directly influenced by the control system but the control system gives man his myths and working models which he then implements, most often to his own detriment.
 
-Laura Knight Jadczyk has written extensively on this in her book _[[Casswiki/High strangeness/High strangeness|High Strangeness]]_ and her _[[The Wave Series]]_ books.
+Laura Knight Jadczyk has written extensively on this in her book _[[High Strangeness - Hyperdimensions and the Process of Alien Abduction|High Strangeness]]_ and her _[[The Wave Series]]_ books.
 
 Further reading
 ---------------
 
-*   _[[Casswiki/High strangeness/High strangeness|High Strangeness]]_
+*   _[[High Strangeness]]_
 *   _[[UFOs and the National Security State]]_
 
 See also
 --------
 
-*   [[Casswiki/High strangeness/High strangeness]]
+*   [[High strangeness]]
 *   [[Hyperdimensional reality]]
 *   [[Alien abduction]]
 *   [[Food for the Moon]]

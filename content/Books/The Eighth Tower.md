@@ -20,6 +20,6 @@ See also
 --------
 
 *   [[Matrix control system]]
-*   [[Casswiki/Books/High Strangeness]]
+*   [[High Strangeness]]
 *   [[UFO phenomenon]]
 *   [[Men in Black]]

@@ -11,10 +11,9 @@ Further reading
 ---------------
 
 *   _[[The Wave Series]]_
-*   _[[Casswiki/High strangeness/High strangeness]]_
+*   _[[High Strangeness - Hyperdimensions and the Process of Alien Abduction|High strangeness]]_
 
 See also
 --------
-
 *   [[Realm]]
 *   Mothman

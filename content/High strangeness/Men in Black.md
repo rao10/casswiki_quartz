@@ -8,7 +8,7 @@ According to the [[Cassiopaeans]], the MIB's are semi-physical projections of [[
 Further reading
 ---------------
 
-*   _[[Casswiki/High strangeness/High strangeness]]_
+*   _[[High strangeness]]_
 
 See also
 --------

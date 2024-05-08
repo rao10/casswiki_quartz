@@ -14,7 +14,7 @@ We cannot construct an exact representation of this level based on human sensory
 See also
 --------
 
-*   _[[Casswiki/High strangeness/High strangeness]]_
+*   _[[High strangeness]]_
 *   [[Density]]
 *   [[Fourth density]]
 *   [[Aliens]]

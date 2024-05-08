@@ -7,7 +7,7 @@ The sessions and the research
 
 While the Cassiopaean material can be an interesting read in itself, it comes about in interaction with ongoing research, and by itself is not as meaningful. Unfortunately, it sometimes happens that people tending towards a [[New Age]] worldview read the transcripts in isolation, interpreting them in such a way that they merely end up extending a subjective [[beliefs|belief]] system.
 
-For people not familiar with the larger body of work that has come about through the [[Cassiopaean Experiment]], at a minimum it is recommended to read _[[The Wave Series]]_ before delving into the transcripts by themselves. Relating the events, research, and metaphysical exploration of the early years of the Cassiopaean Experiment, this series of books quotes key parts of the early Cassiopaean material in context. The transcripts are also quoted in context in works such as _[[The Secret History of the World]]_, _[[Casswiki/Books/High Strangeness|High Strangeness]]_, and _[[Amazing Grace]]_.
+For people not familiar with the larger body of work that has come about through the [[Cassiopaean Experiment]], at a minimum it is recommended to read _[[The Wave Series]]_ before delving into the transcripts by themselves. Relating the events, research, and metaphysical exploration of the early years of the Cassiopaean Experiment, this series of books quotes key parts of the early Cassiopaean material in context. The transcripts are also quoted in context in works such as _[[The Secret History of the World]]_, _[[High Strangeness|High Strangeness]]_, and _[[Amazing Grace]]_.
 
 _The Cassiopaea Experiment Transcripts_ series
 ----------------------------------------------

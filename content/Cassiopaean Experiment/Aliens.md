@@ -38,7 +38,7 @@ Further characteristics
 
 The aliens are generally described as sexless or androgenous. Lizzies and nephilim are sometimes described as male. It is also said that there is no distinction of gender in 4th density and above. Hybrids are described as having both male and female variants.
 
-Much literature exists concerning various types of aliens and the abduction phenomenon. The reader is referred to _[[Casswiki/High strangeness/High strangeness]]_ by [[Laura Knight-Jadczyk]] and to _The Threat_ and other works by David M. Jacobs for more on this matter. As with UFO studies in general, the field is exceedingly fragmented and full of disinformation. There does, however, seem to be a _bona fide_ abduction phenomenon as well as many consistent accounts of diverse alien types.
+Much literature exists concerning various types of aliens and the abduction phenomenon. The reader is referred to _[[High strangeness]]_ by [[Laura Knight-Jadczyk]] and to _The Threat_ and other works by David M. Jacobs for more on this matter. As with UFO studies in general, the field is exceedingly fragmented and full of disinformation. There does, however, seem to be a _bona fide_ abduction phenomenon as well as many consistent accounts of diverse alien types.
 
 See also
 --------

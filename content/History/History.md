@@ -15,7 +15,7 @@ All ‘History’ topics
 *   [[Egypt and Egyptology]] (The mythology of ancient Egypt occupies a somewhat prominent place in certain esoteric circles.)
 *   [[Hyperboreans]] (The ancient Greeks were sometimes called sons of Boreas \[north wind\]. Hyperborea is the land beyond or above the north.)
 *   [[Illuminati]] (Originally the name of a secret society started by Adam Weishaupt in Bavaria in 1776. In the modern context, generally used to mean the higher levels of secret government)
-*   [[Casswiki/Cassiopaean Experiment/Kantek]] (The fifth planet of the solar system, destroyed over 80,000 years ago.)
+*   [[Kantek]] (The fifth planet of the solar system, destroyed over 80,000 years ago.)
 *   [[Linear time]] (The concept of a time dimension which is strictly sequential and only moves forward.)
 *   [[Maunder Minimum]] (A period named after the English solar astronomer E.W. Maunder, who charted an interval of drastically reduced sunspot activity between the years of 1645 and 1715.)
 *   [[Metaphysics]] (The term, in modern usage, refers to something outside of the physical reality, to something supernatural or belonging to a spiritual state of being.)

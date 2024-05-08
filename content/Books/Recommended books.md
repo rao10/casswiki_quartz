@@ -221,9 +221,9 @@ _See the article series [[History]] for more on this general subject (but covera
 UFOs and aliens
 ---------------
 
-_See the article series [[Casswiki/Books/High Strangeness]] and [[Cassiopaean Experiment]] for more on this general subject._
+_See the article series [[High Strangeness]] and [[Cassiopaean Experiment]] for more on this general subject._
 
-*   _[[Casswiki/Books/High Strangeness]]_ – Laura Knight-Jadczyk
+*   _[[High Strangeness - Hyperdimensions and the Process of Alien Abduction|High Strangeness]]_ – Laura Knight-Jadczyk
 *   _[[UFOs and the National Security State]]_ – Richard Dolan
 *   _[[Operation Trojan Horse]]_ – John Keel
 *   _[[The Eighth Tower]]_ – John Keel
@@ -233,7 +233,7 @@ _See the article series [[Casswiki/Books/High Strangeness]] and [[Cassiopaean Ex
 Esotericism and parapsychology
 ------------------------------
 
-_See the article series [[Channeling and channeled material]] and [[Casswiki/Books/High Strangeness]] for more on this general subject._
+_See the article series [[Channeling and channeled material]] and [[High Strangeness - Hyperdimensions and the Process of Alien Abduction|High Strangeness]] for more on this general subject._
 
 *   _[[Shamanism Archaic Techniques of Ecstasy|Shamanism: Archaic Techniques of Ecstasy]]_ – Mircea Eliade
 *   _[[Cosmos and History]]_ – Mircea Eliade

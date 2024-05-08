@@ -1,7 +1,7 @@
 
 > [!info] Part of the Casswiki article series [[Cassiopaean Experiment]] and [[Channeling and channeled material]]
 
-**Earth changes**, most often meaning large natural [cataclysms]([[Cataclysm]]), are linked to the spiritual state of humanity (the current state of the **mass consciousness**) by many metaphysical sources.
+**Earth changes**, most often meaning large natural [[Cataclysm|cataclysms]], are linked to the spiritual state of humanity (the current state of the **mass consciousness**) by many metaphysical sources.
 
 Organic life on Earth is a sort of energy converter and depending on its functioning, there may be shortages or excessive accumulation of energies that may then be released in large-scale physical events on the planet. The [[Signs of the Times]] news website published by the [[Quantum Future Group]] regularly tracks incidents of extreme weather or natural cataclysms in parallel with events in the political and social spheres. In general it appears that the worsening political situation and climate instability, earthquakes and thus far small meteorite events correlate.
 

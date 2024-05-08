@@ -18,7 +18,7 @@ Approached with an open yet critical mind, the source has proved itself a valuab
 Scope of inquiry
 ----------------
 
-From the start, a driving motivation for the Cassiopaean Experiment has been the quest to better understand the Universe, human existence and its meaning, good and evil – and how people can live in truth, improve their own lives, and work to help one another. The research has thus taken on a very broad scope – essentially all the subjects mentioned in the CassWiki [[Casswiki/Others/Casswiki reader's guide]], and more.
+From the start, a driving motivation for the Cassiopaean Experiment has been the quest to better understand the Universe, human existence and its meaning, good and evil – and how people can live in truth, improve their own lives, and work to help one another. The research has thus taken on a very broad scope – essentially all the subjects mentioned in the CassWiki [[Casswiki reader's guide]], and more.
 
 Hyperdimensional hypothesis
 ---------------------------
@@ -94,7 +94,7 @@ All ‘Cassiopaean Experiment’ topics
 *   [[Hyperdimensional reality]] (This is the larger reality in which the reality of three dimensions of space and linear time is embedded. The hyperdimensional reality is not directly observable from inside itself.)
 *   [[Intrinsic nature]] (One's built-in tendency towards either "felicity" vs. "wretchedness", "grace" vs. "sin", or being vs. non-being.)
 *   [[Juvenile vs. adult dictionary]] (The idea is that different people use identical words but understand and intend very different things with these. This is a well known phenomenon of exterior humanity.)
-*   [[Casswiki/Cassiopaean Experiment/Kantek]] (The fifth planet of the solar system, destroyed over 80,000 years ago.)
+*   [[Kantek]] (The fifth planet of the solar system, destroyed over 80,000 years ago.)
 *   [[Knowledge]] (What is known is known in context and in an applicable form)
 *   [[Law of Three]] (The Law of Three is fundamental to Fourth Way cosmology, where each phenomenon springs from the interaction of three forces. The idea is also central to the Cassiopaean Experiment, where context or consciousness determines alignment in relation to the fundamental duality of the cosmos.)
 *   [[Lessons]] (The universe is one great school, everything learns, even inanimate matter.)
