@@ -1,7 +1,6 @@
 
 ![[Arkadiuszjadczyk.jpg|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
+
 Arkadiusz Jadczyk is a theoretical physicist and husband of [[Laura Knight-Jadczyk]].
 
 Professor Jadczyk is fascinated by the problems of the foundations of [[Quantum physics|quantum theory]], and its relation to the philosophy of science and theories of knowledge, consciousness and mind.

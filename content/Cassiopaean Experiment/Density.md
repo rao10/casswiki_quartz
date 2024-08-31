@@ -21,8 +21,7 @@ The densities can, very briefly and roughly, be described as follows:
 In [[Stripped to the Bone (The Wave Series, Volume 3)|volume 3 of _The Wave_]], [[Laura Knight-Jadczyk]] illustrates the densities in a form very similar to the Cabalistic tree of life[\[1\]](#cite_note-STTB-1). This illustration is useful for showing the densities in relation to several other important concepts.
 
 ![[Densities_as_tree_of_life.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
+
 Densities arranged like the tree of life.[\[1\]](#cite_note-STTB-1)
 
 The illustration shows, among other things:

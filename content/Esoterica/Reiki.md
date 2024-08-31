@@ -31,9 +31,6 @@ Origins
 -------
 
 ![[Mikaousui.jpg|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-Mikao Usui
 
 Today's Reiki systems own their existence to a spiritual practice ("My Method" - a practice of achieving unity of self through harmony and balance), developed by a Tendai Buddhist lay monk named Mikao Usui (1865-1926).
 

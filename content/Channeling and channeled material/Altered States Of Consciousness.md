@@ -1,9 +1,6 @@
 > [!info] Part of the Casswiki article series [[Channeling and channeled material]]
 
 ![[TartAltered.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Altered States of Consciousness_, 1990
 
 _**Altered States of Consciousness**_ is a classic anthology edited by psychologist Charles T. Tart, first published in 1969, which became widely used text in allowing the areas of altered states and transpersonal psychology to become elements of modern psychology. This book is a collection of readings about the altered states of consciousness.
 

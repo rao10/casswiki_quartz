@@ -1,6 +1,4 @@
 ![[Gurdjieff01.jpg|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> _George Gurdjieff_
 
 **George Ivanovitch Gurdjieff** (January 13, 1866 or December 28, 1877 - October 29, 1949), generally referred to as G.I. Gurdjieff, was an influential Greek-Armenian spiritual esoteric teacher who founded a quasi-religious movement and introduced [[Fourth Way]] to the Western culture in the first half of the 20th century. Gurdjieff was first known as "G" in _[[In Search of the Miraculous]]_ by [[P. D. Ouspensky|P.D. Ouspensky]], which is the most concise and structured presentation of the background and precepts of the Fourth Way.
 

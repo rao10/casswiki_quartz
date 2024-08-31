@@ -27,8 +27,8 @@ Synthesis
 Mark Hedsel discusses a system of seven bodies in _[[The Zelator]]_, starting with the four ones common to theosophy and various other systems, and then continuing with three higher ones that correspond to a higher degree of development. These are called Manas, Buddhi, and Atman. This system of seven bodies provides the means to bridge the gap between the more "conventional" esoteric idea of higher bodies and the Fourth Way teaching.
 
 ![[bodiesofman.png|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> Table from _[[The Zelator]]_, introductory section "The Way of the Fool". _"The diagram presupposes that Ego is itself a reflecting glass – a sort of mirror of potential – so that the Astral below it is reflected in the Manas above: the Physical is reflected in the highest Atman. \[...\] Sometimes, Atman is 'Atma'."_
+
+Table from _[[The Zelator]]_, introductory section "The Way of the Fool". _"The diagram presupposes that Ego is itself a reflecting glass – a sort of mirror of potential – so that the Astral below it is reflected in the Manas above: the Physical is reflected in the highest Atman. \[...\] Sometimes, Atman is 'Atma'."_
 
 The four first bodies – physical, etheric, astral, and ego (self, "I") – would correspond to Gurdjieff's planetary body. The various functions like biological growth and instinct, physical movement, emotion, and thought have their own centers, but these are not treated as separate bodies. The higher being-bodies of Gurdjieff would correspond to Manas, Buddhi, and Atman. In other words, the formation of these would, among other things, correspond to the refinement of emotions and of intellect, and the gaining of access to the corresponding [[Higher centers|higher centers]].
 

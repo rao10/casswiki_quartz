@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Cassiopaean Experiment]]
 
 ![[laura.jpg|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
+
 Laura Knight-Jadczyk is a seventh generation Floridian, a historian/mystic and an author of over 14 books and many articles published in print and on the internet. Because of her lifelong interests in science and spirit, she began what has come to be known as the "[[Cassiopaean Experiment]]" in 1994; an experiment in [[Superluminal communication]].
 
 She is married to theoretical/mathematical physicist [[Arkadiusz Jadczyk]], one of the world's few living experts in hyperdimensional physics. They established an active online research forum called [Cassiopaea Forum](https://cassiopaea.org/forum/index.php) and several websites as a result of the C's experiment.

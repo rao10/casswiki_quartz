@@ -13,7 +13,6 @@ The material
 The Cassiopaean material is somewhat different in style and content from other material received from allegedly similar sources, such as [[Ra]] or the [[Pleiadians]]. The metaphysical or cosmological discourse is quite compatible with the aforementioned but the Cassiopaean material is more specific and hands-on. Of contemporary channeled sources, Cassiopaean material is unique in that the channeled material has been the starting point rather than the end product. The fact that Knight-Jadczyk and her associates have extensively researched the subject areas covered by the channeled material and used this research for formulating further avenues of inquiry lends a unique hands-on, interactive tone to the material. It contains almost no vague, generic lectures on metaphysics, as are commonly found with channeled material.
 
 ![[Cassiopeia.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
 
 
 The principal themes covered are:
