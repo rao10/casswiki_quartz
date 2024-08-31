@@ -1,6 +1,6 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
-![[lifeisreal.jpg|hsmall center]]
+![[Lifeisreal.jpg|hsmall center]]
 
 
 _**Life Is Real Only Then, When 'I Am'**_ is the third volume, however incomplete, of the _[[All and Everything]]_ trilogy written by [[George Gurdjieff|G.I. Gurdjieff]], first published privately in 1974. The _All and Everything_ trilogy also includes _[[Beelzebub's Tales to His Grandson]]_ (1950) and _[[Meetings with Remarkable Men]]_ (1963).
