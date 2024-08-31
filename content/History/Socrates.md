@@ -1,8 +1,5 @@
 
 ![[Socrates.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Socrates_
 
 Socrates (469-399 BC) - who, according to the Cassiopaean transcripts was an incarnation of Jesus of Nazareth - was an Athenian philosopher who has often been dubbed the father of western philosophy.
 

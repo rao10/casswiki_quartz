@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[EPS.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Encyclopaedia of Psychic Science_, 1934
+
 
 _**Encyclopaedia of Psychic Science**_ is Nandor Fodor's _magnum opus_, first published in 1934.
 

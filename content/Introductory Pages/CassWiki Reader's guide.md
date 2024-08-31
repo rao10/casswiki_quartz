@@ -6,7 +6,7 @@ Cassiopaean Experiment
 
 _Article series: [[Cassiopaean Experiment]]_
 
-The Cassiopaean Experiment is both an experiment in [critical channeling]([[Critical channeling]]) (conducted by [[Laura Knight-Jadczyk]]), and tied to a broader project of historical and other research. [The channeled material]([[Cassiopaean session transcripts]]) which the experiment has led to is used as a source of inspiration for research, as opposed to the [[New Age]] approach of treating such material as a final product to be taken on faith.
+The Cassiopaean Experiment is both an experiment in [[Critical channeling|critical channeling]] (conducted by [[Laura Knight-Jadczyk]]), and tied to a broader project of historical and other research. [[Cassiopaean session transcripts|channeled material]] which the experiment has led to is used as a source of inspiration for research, as opposed to the [[New Age]] approach of treating such material as a final product to be taken on faith.
 
 This wiki is a companion site to [Cassiopaea.org](https://cassiopaea.org/), the website for the Cassiopaean Experiment and Laura Knight-Jadczyk's work. For those interested in the Cassiopaean Experiment and Laura's work, Cassiopaea.org is the primary resource. This wiki gives a systematized overview of concepts, findings, and the subjects discussed on the [Cassiopaea Forum](https://cassiopaea.org/forum). Many articles will direct the reader to external materials, e.g. those at Cassiopaea.org, for further reading.
 

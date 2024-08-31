@@ -14,8 +14,7 @@ The Cassiopaean material is somewhat different in style and content from other m
 
 ![[Cassiopeia.png|hsmall center]]
 > [!caption|center no-title no-icon no-margin ]
-> 
-The Cassiopeia constellation.
+
 
 The principal themes covered are:
 

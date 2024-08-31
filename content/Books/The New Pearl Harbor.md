@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[newpearlharbor.jpg|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The New Pearl Harbor_
+
 
 _**The New Pearl Harbor: Disturbing Questions About the Bush Administration and 9/11**_ is a book by theologian David Ray Griffin, originally published in 2004, which exposes the flaws in the "official version" of 9/11 events.
 

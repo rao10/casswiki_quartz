@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[ScienceDelusion.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> _The Science Delusion_, 2013
+
 
 _**The Science Delusion: Freeing the Spirit of Enquiry**_ or _**Science Set Free**_ is a book by Rupert Sheldrake, first published in 2012, which is concerned with the problem of materialist doctrines in mainstream science and the need to take consciousness into account.
 

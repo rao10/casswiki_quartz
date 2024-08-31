@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[STOAA.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Secret Teachings of All Ages_, 1989 (Diamond Jubilee Edition)
+
 
 _**The Secret Teachings of All Ages: An Encyclopedic Outline of Masonic, Hermetic, Qabbalistic, and Rosicrucian Symbolical Philosophy**_ is a classic esoteric encyclopedia written by Manly P. Hall, first published in 1928.
 

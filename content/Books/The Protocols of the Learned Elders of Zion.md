@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Protocols.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Protocols of the Elders of Zion_, Victor E. Marsden's 1923 translation
+
 
 _**The Protocols of the Elders of Zion**_ or _**The Protocols of the Meetings of the Learned Elders of Zion**_ is an anti-Semitism text alleging a Jewish and Masonic plot to achieve world domination, first published in Russia in 1903.
 

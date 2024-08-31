@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[LightsOut.jpg|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> _Lights Out: Sleep, Sugar, and Survival_, 2001
+
 
 _**Lights Out: Sleep, Sugar, and Survival**_ is a book by T. S. Wiley with Bent Formby, published in 2001, which deals with the problem of "light poisoning", disrupting sleep quality and unnatural sleep patterns - and the impact on health this gives rise to.
 

@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Defying_Hitler.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Defying Hitler_, 2003 cover.
+
 
 _**Defying Hitler: A Memoir**_ is a book by Sebastian Haffner, written in 1939 and published posthumously in 2000. It gives an insightful account of the Nazis' rise to power, as well as the events before (World War I, the hyperinflation, failed revolutions) which prepared the society to accept such a turn in direction. The perspective is that of an ordinary middle class citizen, relating how each turn of events affected him and his family, those around him, and the society at large.
 

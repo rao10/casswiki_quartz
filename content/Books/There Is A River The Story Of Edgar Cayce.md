@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[cayceriver.jpg|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> _There Is A River: The Story Of Edgar Cayce_, 2007
+
 
 _**There Is a River: The Story of Edgar Cayce**_ is a biography of Edgar Cayce by Thomas Sugrue, first published in 1942.
 

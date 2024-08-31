@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[thebookonmediums.jpg|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Book on Mediums_, 2007
+
 
 _**The Book on Mediums: Guide for Mediums and Invocators**_ is a book by Allan Kardec, first published in 1861. This book is a follow-up to _[[The Spirits Book]]_ (1857) and it is the second in a series of five books by the author that are known as the "Spiritist Codification". The book runs for thirty-three chapters.
 

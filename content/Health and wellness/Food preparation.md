@@ -3,6 +3,9 @@
 
 **Making food** is a necessary skill for anyone wishing to move away from the destructively unhealthy processed foods and diet of the modern world.
 
+The lost art and skill of making food
+-------------------------------------
+
 Many people in modern society are unable to make food for themselves. This can lead to a difficult situation for people who decide to change their lifestyle to avoid the dangers of modern agricultural processed food. Knowing ahead of time the basic techniques for making food efficiently without wasted time or effort will greatly improve the experience of someone moving to a new diet and free up a large amount of time.
 
 Make it easy

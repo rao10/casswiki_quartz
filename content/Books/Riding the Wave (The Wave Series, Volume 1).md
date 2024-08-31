@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[riding-the-wave.jpg|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> _Riding the Wave: The Truth and Lies About 2012 and Global Transformation_, 2010
+
 
 _**Riding the Wave: The Truth and Lies About 2012 and Global Transformation**_ is the first volume of _The Wave_ series by [[Laura Knight-Jadczyk]], first appeared on the internet in late March of 2000 with the latest book revised publication in 2010.
 
@@ -14,12 +13,12 @@ _The Wave_ series
 -----------------
 
 *   **_Riding the Wave_ (Vol. 1)**
-*   [[Soul Hackers (The Wave Series, Volume 2)|_Soul Hackers_ (Vol. 2)]]
-*   [[Stripped to the Bone (The Wave Series, Volume 3)|_Stripped to the Bone_ (Vol. 3)]]
-*   [[Through a Glass Darkly (The Wave Series, Volume 4)|_Through a Glass Darkly_ (Vol. 4)]]
-*   [[Petty Tyrants & Facing the Unknown (The Wave Series, Volume 5 & 6)|_Petty Tyrants & Facing the Unknown_ (Vol. 5 & 6)]]
-*   [[Almost Human (The Wave Series, Volume 7)|_Almost Human_ (Vol. 7)]]
-*   [[Debugging the Universe (The Wave Series, Volume 8)|_Debugging the Universe_ (Vol. 8)]]
+*   [[Soul Hackers (The Wave Series, Volume 2)|Soul Hackers (Vol. 2)]]
+*   [[Stripped to the Bone (The Wave Series, Volume 3)|Stripped to the Bone (Vol. 3)]]
+*   [[Through a Glass Darkly (The Wave Series, Volume 4)|Through a Glass Darkly (Vol. 4)]]
+*   [[Petty Tyrants & Facing the Unknown (The Wave Series, Volume 5 & 6)|Petty Tyrants & Facing the Unknown (Vol. 5 & 6)]]
+*   [[Almost Human (The Wave Series, Volume 7)|Almost Human (Vol. 7)]]
+*   [[Debugging the Universe (The Wave Series, Volume 8)|Debugging the Universe (Vol. 8)]]
 
 See also
 --------

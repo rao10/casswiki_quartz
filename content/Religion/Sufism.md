@@ -40,7 +40,7 @@ In the case of perfect man, spiritual realization has opened up the imagination 
 
 Ibn al Arabi has left a vast literary legacy which mostly consists of his direct, personal observations of higher worlds. As a documenter and explorer of worlds disclosed by mystical experience, al Arabi may be compared to [[Rudolf Steiner]] in more recent times.
 
-Sufism has most probably been an important early influence on Gurdjieff. Sufism, mostly as represented by the works of Ibn al Arabi has also contributed many concepts to the [[FOTCM|FotCM]]. Most important among these are the notion of the faces of God and perspicacity. We can in the above excerpts recognize echoes of esoteric concepts such as being, the ray of creation, the Law of Three, objectivity, all being one and so forth.
+Sufism has most probably been an important early influence on Gurdjieff. Sufism, mostly as represented by the works of Ibn al Arabi has also contributed many concepts to the [[FOTCM|FOTCM]]. Most important among these are the notion of the faces of God and perspicacity. We can in the above excerpts recognize echoes of esoteric concepts such as being, the ray of creation, the Law of Three, objectivity, all being one and so forth.
 
 See also
 --------

@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[magic.png|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> _Magic: The Principles of Higher Knowledge_, 1989 edition
+
 
 _**Magic: The Principles of Higher Knowledge**_ is a book by Christian theosopher Karl von Eckartshausen, first published in German in 1788, conveying the author's thoughts on metaphysical, religious, and theosophical aspects of life.
 

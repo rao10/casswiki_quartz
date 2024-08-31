@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[NeandertalShreeve.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Neandertal Enigma_
+
 
 _**The Neandertal Enigma: Solving the Mystery of Modern Human Origins**_ is a book by James Shreeve, first published in 1995, which examines the scientific evidence and addresses the controversy surrounding Neanderthals' fate.
 

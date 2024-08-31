@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[SignatureCell.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Signature in the Cell_, 2009
+
 
 _**Signature in the Cell: DNA and the Evidence for Intelligent Design**_ is a book by philosopher Stephen C. Meyer, first published in 2009. It is the precursor to the author's 2013 book _[[Darwin’s Doubt|Darwin's Doubt]]_ and focuses on the problem of the origin of genetic information and the case for intelligent design, using a few arguments and concepts similar to those of Bryant M. Shiller's _Origin of Life: The 5th Option_.
 

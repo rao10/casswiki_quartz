@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[AngryRubin.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Angry Book_, Touchstone Ed: 1998
+
 
 _**The Angry Book**_ is a book by psychiatrist Theodore Isaac Rubin, first published in 1969.
 

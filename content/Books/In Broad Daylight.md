@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[MacLean.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_In Broad Daylight_, 2006
+
 
 _**In Broad Daylight: A Murder in Skidmore, Missouri**_ is a 1988 true crime book by Harry N. MacLean, describing the story of the killing of Ken Rex McElroy on the main street of Skidmore, Missouri in July 1981.
 

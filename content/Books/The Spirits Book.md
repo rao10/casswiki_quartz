@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]] and [[Channeling and channeled material]]
 
 ![[The_spirits_book.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Spirits' Book_, 2010
+
 
 _**The Spirits' Book**_ is a book by Allan Kardec, first published in 1857. Followed by _[[The Book on Mediums]]_ (1861), this book is the first in a series of five books from the author, known as the "Spiritist Codification". It contains four "books" with twenty-nine chapters in all.
 

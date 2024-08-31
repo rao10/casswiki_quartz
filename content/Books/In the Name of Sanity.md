@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Mumford.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_In the Name of Sanity_, 1954.
+
 
 _**In the Name of Sanity**_ is a book by historian Lewis Mumford, first published in 1954.
 

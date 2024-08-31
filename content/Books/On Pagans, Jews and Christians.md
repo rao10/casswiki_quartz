@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[PJCMomigliano.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_On Pagans, Jews, and Christians_, 1987
+
 
 _**On Pagans, Jews, and Christians**_ is a book by Italian historian Arnaldo Momigliano, first published in 1987.
 

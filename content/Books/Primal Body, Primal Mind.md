@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Primal_Body%2C_Primal_Mind.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Primal Body, Primal Mind_, 2011.
+
 
 _**Primal Body, Primal Mind**_ is a book by Nora Gedgaudas, first published in 2009. It is a comprehensive and highly recommended resource for those interested in the [[Ketogenic diet|ketogenic diet]].
 

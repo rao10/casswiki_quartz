@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[InvisibleResidents.jpg|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> _Invisible Residents_, 2005 Edition
+
 
 _**Invisible Residents: The Reality of Underwater UFOs**_ is a classic book by biologist Ivan T. Sanderson, originally published in 1970 as _Invisible Residents: A Disquisition upon Certain Matters Maritime, and the Possibility of Intelligent Life under the Waters of This Earth_.
 

@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[TertiumOrganum.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Tertium Organum_, 1970 Edition
+
 
 _**Tertium Organum: The Third Canon of Thought, a Key to the Enigmas of the World**_ is a a book by [[P. D. Ouspensky]], originally published in 1912.
 

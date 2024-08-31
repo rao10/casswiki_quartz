@@ -1,11 +1,11 @@
 
 > [!info] Part of the Casswiki article series [[Cassiopaean Experiment]]
 
-This term is used in the context of the Cassiopaea material and [[FOTCM|FotCM]] studies to denote an expanded view of reality.
+This term is used in the context of the Cassiopaea material and [[FOTCM|FOTCM]] studies to denote an expanded view of reality.
 
 This is the larger reality in which the reality of three dimensions of space and linear time is embedded. The hyperdimensional reality is not directly observable from inside itself. We can however see shadows of hyperdimensional contents and principles through their effects, a bit like the spectators in Plato's cave analogy.
 
-A comprehensive description is not possible but drawing on all the material brought together by the FotCM from esoteric tradition, direct experience and different sciences, we can list probable attributes of this broader reality:
+A comprehensive description is not possible but drawing on all the material brought together by the [[FOTCM|FOTCM]] from esoteric tradition, direct experience and different sciences, we can list probable attributes of this broader reality:
 
 **Multiple Levels** - Reality seems to be constructed of worlds within worlds, each offering a more all encompassing view of phenomena and beings. This idea corresponds to the 4th Way ray of creation and the Cassiopaea/Ra scale of densities. The human level of perception is but a slice of a more complex world. We can speak of archetypal forms having a concrete existence in a hyperdimensional context from which they are projected onto the level of human experience.
 

@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Amazing-Grace_front-682x1024.jpg|hsmall center ]]
-> [!caption|center no-title no-icon no-margin ]
-> _Amazing Grace_, 2002
+
 
 _**Amazing Grace**_ is an autobiography by [[Laura Knight-Jadczyk]], first published in 2002, consisted of 44 chapters with roughly 540 pages.
 

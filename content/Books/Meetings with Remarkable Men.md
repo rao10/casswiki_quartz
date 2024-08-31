@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Gmeetings.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Meetings with Remarkable Men_, 1991 edition
+
 
 _**Meetings with Remarkable Men**_ is the second volume of the _[[All and Everything]]_ trilogy written by [[George Gurdjieff|G.I. Gurdjieff]], first published in 1960 in France. The _All and Everything_ trilogy also includes _[[Beelzebub's Tales to His Grandson]]_ (1950) and _[[Life Is Real Only Then, When ’I Am’|Life Is Real Only Then, When 'I Am']]_ (1974).
 

@@ -1,9 +1,6 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[detoxify.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Detoxify or Die_
 
 _**Detoxify or Die**_ is a book by Sheery A. Rogers, published in 2002, which presents a strong case that our main toxic load comes from our environment and provides a sources and types of toxicity that are damaging our bodies.
 

@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Lifebetweenlife.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Life Between Life_, 1986
+
 
 _**Life Between Life**_ is a book by psychiatrist Joel L. Whitton and paranormal writer Joe Fisher, first published in 1986.
 

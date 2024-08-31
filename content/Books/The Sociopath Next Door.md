@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[SociopathStout.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Sociopath Next Door_, 2006
+
 
 _**The Sociopath Next Door**_ is a compelling book by Martha Stout, first published in 2005. In this book, the author paints a chillingly accurate picture of what sociopaths ([[Psychopaths|psychopaths]]) are like; they do not have a conscience, do not feel love or remorse, do not feel guilt or shame, but rather, they live their lives like actors in a play, mimicking emotions in order to lure normal people into abusive and catastrophic relationships.
 

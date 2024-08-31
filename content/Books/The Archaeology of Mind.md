@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Archaeology_of_Mind.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Archaeology of Mind_, 2012.
+
 
 _**The Archaeology of Mind: Neuroevolutionary Origins of Human Emotions**_ is a book by Jaak Panksepp and Lucy Biven, first published in 2012. It is Panksepp's latest exposition on affective neuroscience, the neuroscientific study of emotions, and particularly the role played by the subcortical brain circuits we share with all mammals and which give rise to basic emotions.
 

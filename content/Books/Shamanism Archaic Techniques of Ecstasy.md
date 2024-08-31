@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[shamanism.png|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> _Shamanism: Archaic Techniques of Ecstasy_, 2004
+
 
 _**Shamanism: Archaic Techniques of Ecstasy**_ is a classic scholarly work by Mircea Eliade, first published in 1951. It is a historical survey of the different forms of shamanism around the world and became a standard work for understanding the beliefs and practices of [[Shamanism|shamanism]]. It is divided into fourteen chapters.
 

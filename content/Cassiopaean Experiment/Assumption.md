@@ -1,7 +1,7 @@
 
 > [!info] Part of the Casswiki article series [[Cassiopaean Experiment]] and [[Psychology]]
 
-**Assumptions**, in [[FOTCM|FotCM]] discourse, are ideas, value judgements or unquestioned premises which color one's thinking, generally without one's own awareness.
+**Assumptions**, in [[FOTCM|FOTCM]] discourse, are ideas, value judgements or unquestioned premises which color one's thinking, generally without one's own awareness.
 
 Mental activity needs to be based on some sort of model or context. We could call such a thing a world view, working model or working hypothesis, depending on the application. Thoughts, value judgements or interpretations of reality do not exist without assumption, nor can they exist in a vacuum. In this sense thinking is never free of 'assumptions' which form a sort of implicit context to anything that can be thought.
 

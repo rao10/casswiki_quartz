@@ -28,7 +28,7 @@ Following is a short summary of the channeled source's statements on DNA:
 *   The original 12-strand DNA of the human species was broken and scattered at the time of the [[Fall of man|fall of man]] by the [lizzies]([[Aliens]]) (reptilian [[Fourth density service to self being|fourth density service to self beings]]) with the result that man was cut off from spirit, left only with the capacities necessary for sustaining life. {P's}
 *   4D STS used technology to cancel the 10 first factors of DNA at the time of the fall of man. This resulted in interrupted flow of neurotransmitters. This was achieved by modifying the light received by Earth. {C's}
 *   Supernovas occurring within 2000 light years have both instantaneous effects as well as effects carried by radiation and these effects can affect DNA. {C's} The C's suggest the effects go beyond random strand breakage and mutation caused by ionizing radiation in general. A supernova would thus be a special source as opposed to other sources of hard radiation. While ionizing radiation mostly causes cell death or cancerous mutations, such radiation from a supernova would make more "intelligent" changes, provided the spiritual orientation of the receiver were compatible.
-*   The [frequency resonance vibration]([[Frequency resonance vibration]]) (consciousness and orientation) of the person determines receivership capacity, which then determines to what degree outside catalyst is capable of affecting DNA changes. This may apply to [[The Wave|the Wave]] or to supernovae. \[C's\]
+*   The [[Frequency resonance vibration|frequency resonance vibration]] (consciousness and orientation) of the person determines receivership capacity, which then determines to what degree outside catalyst is capable of affecting DNA changes. This may apply to [[The Wave|the Wave]] or to supernovae. \[C's\]
 *   Man's altered DNA is responsible for the perception of [[Linear time|linear time]] and other limitations. DNA changes can manifest spontaneously with evolution of consciousness, which can unlock memories of past lives and do many other things. These are natural processes best not to attempt to artificially influence, though STS beings do this. \[C's\]
 
 There are many more mentions of the subject in the [[Cassiopaean session transcripts]] and the reader is referred there for more.
@@ -41,6 +41,6 @@ See also
 --------
 
 *   [[The Wave]]
-*   [Supernova]([[White dwarves and supernovae]])
+*   [[White dwarves and supernovae|Supernova]]
 *   [[Fall of man]]
 *   [[Frequency resonance vibration]]

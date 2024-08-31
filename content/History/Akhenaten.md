@@ -1,9 +1,6 @@
 > [!Info] Part of the Casswiki article series History
 
 ![[Akhenaten.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Statue of Akhenaten_
 
 Akhenaten (Amenhotep IV) is the most controversial figure of ancient Egyptian history. He was a pharaoh of the 18th dynasty, living around 1500 BCE. He was married to Nefertiti and preceded the ill-fated boy-king Tutankamon. Akhenaten and Nefertiti had 6 daughters but four of them died before adulthood. Their role in the later stages of the royal family is disputed.
 
@@ -17,7 +14,7 @@ To some, Akhenaten is an inspired visionary ahead of his time, to others a madma
 
 The channeled source [[Ra]] names Akhenaten as one of its former channels. Ra notes that the wanderer Akhenaten had little experience of Earth and generally received lip service only and could affect no lasting change, good as his intentions may have been.
 
-The [[FOTCM|FotCM]] speculates that the period of Akhenaten was a turning point and that Nefertiti was a central figure in bringing this about. According to some, she was a foreign queen, yet according to others a relative of Akhenaten. It seems that she was one among several probable alien hybrids carrying a genetic tweak giving them the unusual skull shape and cranial volume. The practice of head bandaging in some African tribes may be an imitation of this form. The story of Nefertiti is linked to that of Sarah, wife of Abraham.
+The [[FOTCM|FOTCM]] speculates that the period of Akhenaten was a turning point and that Nefertiti was a central figure in bringing this about. According to some, she was a foreign queen, yet according to others a relative of Akhenaten. It seems that she was one among several probable alien hybrids carrying a genetic tweak giving them the unusual skull shape and cranial volume. The practice of head bandaging in some African tribes may be an imitation of this form. The story of Nefertiti is linked to that of Sarah, wife of Abraham.
 
 Further readings
 ----------------

@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Castaneda-Teachings.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Teachings of Don Juan_, 1983
+
 
 _**The Teachings of Don Juan: A Yaqui Way of Knowledge**_ is a book by [[Carlos Castaneda]], first published in 1968 as a work of anthropology. It documents the author's experiences and the events that took place during an apprenticeship with the mythical brujo [don Juan Matus]([[Don Juan]]).
 

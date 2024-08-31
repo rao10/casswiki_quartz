@@ -1,8 +1,5 @@
 
 ![[Ouspensky1.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_P.D. Ouspensky_
 
 P.D. Ouspensky, 1878-1947, is best known as the author of _[[In Search of the Miraculous]]_, which is the principal systematic rendition of [Gurdjieff's]([[George Gurdjieff]]) 4th Way teaching.
 

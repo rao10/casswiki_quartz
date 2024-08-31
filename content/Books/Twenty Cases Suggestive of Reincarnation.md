@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Twentycases.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Twenty Cases Suggestive of Reincarnation_, 1999
+
 
 _**Twenty Cases Suggestive of Reincarnation**_ by psychiatrist Ian Stevenson, first published in 1966, is a classic in the annals of reincarnation research.
 

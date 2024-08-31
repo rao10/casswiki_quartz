@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[JesusCaesar.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Jesus was Caesar_
+
 
 _**Jesus was Caesar: On the Julian Origin of Christianity: An Investigative Report**_ is a book by Francesco Carotta, originally published in 1999, which presents a case that the historical person behind the Biblical figure Jesus Christ was not Jesus of Nazareth, but Julius Caesar, from whose cult later dissolved as Christianity surfaced and developed over the centuries. The author based this case on an irrefutable comparison of the biblical gospels about Jesus with the ancient historical sources about the final years of Caesar and his legacy.
 

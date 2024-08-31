@@ -1,6 +1,6 @@
 > [!info] Part of the Casswiki article series [[Ponerology and psychopathy]]
 
-**Ponerization** (from ancient Greek _poneros_ – evil), is a [ponerological]([[Ponerology]]) term coined by Dr. [Andrzej M. Łobaczewski]([[Andrew M. Lobaczewski]]). Ponerization is the influence of pathological people on individuals and groups whereby they develop acceptance of pathological reasoning and values.
+**Ponerization** (from ancient Greek _poneros_ – evil), is a [ponerological]([[Ponerology]]) term coined by Dr. [[Andrew M. Lobaczewski|Andrzej M. Łobaczewski]]. Ponerization is the influence of pathological people on individuals and groups whereby they develop acceptance of pathological reasoning and values.
 
 Individual scale
 ----------------
@@ -10,7 +10,7 @@ On the individual scale it can be described as transpersonification, where peopl
 Group scale
 -----------
 
-On the group scale it can happen in one of two ways: either a new group is formed and led by pathological people from the start, or they take over a formerly healthy group. This is called, respectively, primary ponerization (resulting in a _primary [ponerogenic association]([[Ponerogenic association]])_) and secondary ponerization (resulting in a _secondary ponerogenic association_).
+On the group scale it can happen in one of two ways: either a new group is formed and led by pathological people from the start, or they take over a formerly healthy group. This is called, respectively, primary ponerization (resulting in a _primary [[Ponerogenic association|ponerogenic association]] and secondary ponerization (resulting in a _secondary ponerogenic association_).
 
 ### Primary ponerization
 

@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Carnegie.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_How to Win Friends and Influence People_, 1998 Edition
+
 
 _**How to Win Friends and Influence People**_ is a classic self-help book by Dale Carnegie, first published in 1936, containing advice on how to create success in both business and personal lives.
 

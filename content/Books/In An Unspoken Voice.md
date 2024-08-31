@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[In_An_Unspoken_Voice.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_In An Unspoken Voice_, 2010.
+
 
 _**In An Unspoken Voice: How the Body Releases Trauma and Restores Goodness**_ is a book by Peter A. Levine, first published in 2010. It explores the physiological basis of trauma and a body-centered method of recovery. The theory is based on neuroscience and behavioral studies, and the practice (called Somatic Experiencing) on clinical experience.
 

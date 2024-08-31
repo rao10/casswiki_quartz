@@ -14,8 +14,6 @@ Pavlov discovered that an organism's level of tolerance to various stimuli varie
 The four temperaments
 ---------------------
 ![[One_of_Pavlov's_dogs.jpg|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> One of Pavlov’s dogs, Pavlov Museum, 2005
 
 Based on the empirical evidence accumulated through thirty years of research, Pavlov was convinced of the idea of the four basic temperaments. He noted that these temperaments approximated closely to those differentiated in man by Hippocrates. Though various blends of basic temperamental patterns appeared in Pavlov's dogs, they could be distinguished as such instead of by creating new categories.
 

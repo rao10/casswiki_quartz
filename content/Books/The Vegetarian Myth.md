@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[The_Vegetarian_Myth.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Vegetarian Myth_, 2009.
+
 
 _**The Vegetarian Myth: Food, Justice and Sustainability**_ is a book by Lierre Keith, first published in 2009. It discusses, with scientific backing, the problems with vegetarianism and veganism, both in terms of health and ethics.
 

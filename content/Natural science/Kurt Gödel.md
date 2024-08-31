@@ -1,9 +1,6 @@
 > [!info] Part of the Casswiki article series [[Natural science]]
 
 ![[Godel.jpg|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Kurt Gödel_
 
 **Kurt Gödel**, 1906-1978 , was the foremost logicians of the 20th century.
 

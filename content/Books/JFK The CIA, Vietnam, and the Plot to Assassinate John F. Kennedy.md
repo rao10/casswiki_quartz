@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[jfkcia.png|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> _JFK_
+
 
 _**JFK: The CIA, Vietnam, and the Plot to Assassinate John F. Kennedy**_ is a book by L. Fletcher Prouty, first published in 1992, which gives a sobering overview of what happened on the day of assassination of President John F. Kennedy and proposed his death as a _coup d'état_ that placed in the White House a very different man "controlled" by a psychopathic elite.
 

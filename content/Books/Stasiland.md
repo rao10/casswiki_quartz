@@ -1,9 +1,6 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Stasiland.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Stasiland_
 
 _**Stasiland: Stories from Behind the Berlin Wall**_ by Anna Funder, first published in 2003, is a journalistic account describing pathocracy from inside the East German regime before the Fall of the Berlin Wall. It contains the collection of the personal stories, interviews, documents that painted a sobering picture of what that country have been going through. It is also a very critical and shocking appraisal of an inhuman political system in which a few psychopathic personalities torture the masses they fear.
 

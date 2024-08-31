@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[WorldsCollision.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Worlds in Collision_, 2009 Edition
+
 
 _**Worlds in Collision**_ is a classic book by Immanuel Velikovsky, first published in 1950.
 

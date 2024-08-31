@@ -1,7 +1,7 @@
 
 > [!info] Part of the Casswiki article series [[Channeling and channeled material]]
 
-In [[FOTCM|FotCM]] discourse, this term usually refers to whether one is of service to others or of service to self.
+In [[FOTCM|FOTCM]] discourse, this term usually refers to whether one is of service to others or of service to self.
 
 Polarization is the process of becoming one or the other.
 

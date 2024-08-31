@@ -3,9 +3,6 @@
 
 ![[PierceInfo.png|hsmall center ]]
 
-> [!caption|center no-title no-icon no-margin ]
-> _An Introduction to Information Theory_, 1980 Dover Edition
-
 _**An Introduction to Information Theory: Symbols, Signals and Noise**_ is a textbook by John R. Pierce, first published in 1961 under the title _Symbols, Signals and Noise: The Nature and Process of Communication_.
 
 This is a a classic textbook which covers the formal theory in a relatively easy way and an excellent introduction to the concepts of information theory: entropy, stationarity, ergodic sources, efficient coding, error detection, error correction, etc.

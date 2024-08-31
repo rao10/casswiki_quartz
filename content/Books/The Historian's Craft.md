@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Bloch.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Historian's Craft_, Vintage Edition: 1964
+
 
 _**The Historian's Craft: Reflections on the Nature and Uses of History and the Techniques and Methods of Those Who Write It**_ is a book by Marc Bloch, first published in French in 1949; published in English in 1954.
 

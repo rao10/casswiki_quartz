@@ -1,6 +1,6 @@
 > [!info] Part of the Casswiki article series [[Fourth Way]]
 
-The principle of relativity is the principle by which new standards are set within the language structure so as to establish the proper points of reference for the correct understanding of different concepts with respect to different levels of meaning. Gurdjieff sees this principle as a necessity to prevent misunderstandings arising from mixing one level of meaning with another resulting in what FotCM calls the cross conceptualization of ideas.
+The principle of relativity is the principle by which new standards are set within the language structure so as to establish the proper points of reference for the correct understanding of different concepts with respect to different levels of meaning. Gurdjieff sees this principle as a necessity to prevent misunderstandings arising from mixing one level of meaning with another resulting in what [[FOTCM|FOTCM]] calls the cross conceptualization of ideas.
 
 Many of our misunderstandings and arguments are due to this "mixing of levels," that is, we are mixing up the experiences of different worlds. For proper understanding of any given concept a new language is necessary.
 

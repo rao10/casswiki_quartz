@@ -1,10 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Blink_Penguin_edition.png|hsmall center ]]
-> [!caption|center no-title no-icon no-margin ] _Blink: The Power of Thinking Without Thinking_, Penguin Books re-issue edition.
 
-> [!caption|center no-title no-icon no-margin ] 
->  _Blink: The Power of Thinking Without Thinking_, Penguin Books re-issue edition.
 
 _**Blink: The Power of Thinking Without Thinking**_ is a book by Malcolm Gladwell, first published in 2005. It presents research findings on the role of the adaptive unconscious in our lives, including the more positive aspects of unconscious information processing ("thinking without thinking"). It can often notice and solve problems more efficiently and creatively than an analytical approach which systematically considers more information.
 

@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[SRTmanual.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Spirit Releasement Therapy_, 1993
+
 
 _**Spirit Releasement Therapy: A Technique Manual**_ is a book by William J. Baldwin, D.D.S., Ph.D., first published in 1993.
 

@@ -1,15 +1,13 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Isotm.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_In Search of the Miraculous_, 1949.
+
 
 _**In Search of the Miraculous: Fragments of an Unknown Teaching**_ is a book by [[P. D. Ouspensky]], published posthumously in 1949 by Ouspensky's students and authorized by [[George Gurdjieff]] himself. It is probably the best overall introduction to the [[Fourth Way]] ever published, containing both a structured presentation of the teaching and a personal account giving background information and additional perspective.
 
 The book is essentially Ouspensky's account of how he met "G." (who we know to be Gurdjieff), learned his Fourth Way teaching, and in what this teaching consisted. It relates events starting with Ouspensky's encounter with Gurdjieff in Moscow in 1915. Ouspensky then describes his participation in Gurdjieff's Work groups, recording both his experiences and the concepts Gurdjieff gave in his lectures in a roughly chronological order.
 
-From the viewpoint of the [[FOTCM|FotCM]], this book is packed with profound information and is a good general introduction to Gurdjieff's ideas, and also gives a good glimpse of how Gurdjieff _did_ things. Part of this approach, as well as several other Gurdjieffian ideas, are an integral part of FotCM. It remains an essential read for understanding a number of the topics discussed on the [Cassiopaea Forum](https://cassiopaea.org/forum/index.php) – as well as for anyone seriously interested in [[The Work]], i.e. in practicing the Fourth Way.
+From the viewpoint of the [[FOTCM|FOTCM]], this book is packed with profound information and is a good general introduction to Gurdjieff's ideas, and also gives a good glimpse of how Gurdjieff _did_ things. Part of this approach, as well as several other Gurdjieffian ideas, are an integral part of FotCM. It remains an essential read for understanding a number of the topics discussed on the [Cassiopaea Forum](https://cassiopaea.org/forum/index.php) – as well as for anyone seriously interested in [[The Work]], i.e. in practicing the Fourth Way.
 
 In relation to other Fourth Way books
 -------------------------------------

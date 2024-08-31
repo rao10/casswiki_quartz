@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[The_Iron_Elephant-2nd_edition.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Iron Elephant_, 2nd edition, 2001.
+
 
 _**The Iron Elephant: What You Should Know about the Danger of Excess Body Iron**_ is a book by Roberta Crawford, first published in 1990. It discusses the deadly problem of iron overload, which can stem from hereditary hemochromatosis – a very common genetic disorder which causes excessive absorption of iron. Though easily treatable, iron overload is "tragically undiagnosed" and those afflicted are often met with ignorance.
 

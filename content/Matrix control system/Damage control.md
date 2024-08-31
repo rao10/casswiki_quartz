@@ -1,7 +1,7 @@
 
 > [!info] Part of the Casswiki article series [[Matrix control system]] and [[Cassiopaean Experiment]]
 
-The [[FOTCM]] uses the term **damage control** to describe the reaction of the [control system]([[Matrix control system]]) to any disclosure that is unfavorable to it.
+The [[FOTCM]] uses the term **damage control** to describe the reaction of the [[Matrix control system|control system]] to any disclosure that is unfavorable to it.
 
 In general
 ----------

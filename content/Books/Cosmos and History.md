@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[CosmosHistory.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Cosmos and History: The Myth of the Eternal Return_, 1959
+
 
 _**Cosmos and History: The Myth of the Eternal Return**_ is a work of the history of religions by Mircea Eliade, first published in 1954. It consists of four chapters with a foreword.
 

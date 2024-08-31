@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[ECHCC.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Earth Changes and the Human-Cosmic Connection_, 2014
+
 
 _**Earth Changes and the Human-Cosmic Connection**_, by [[Pierre Lescaudron]], is the third volume in the series _[[The Secret History of the World]]_ by [[Laura Knight-Jadczyk]], and was published in 2014.
 

@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[WomenRope.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Gurdjieff and the Women of the Rope_, 2012
+
 
 _**Gurdjieff and the Women of the Rope: Notes of Meetings in Paris and New York 1935-1939 and 1948-1949**_ is a collection of diaries of the women who interacted and worked with [[George Gurdjieff|G.I. Gurdjieff]], published in 2012.
 

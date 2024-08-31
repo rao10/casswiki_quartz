@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[channeling.png|hsmall center ]]
-> [!caption|center no-title no-icon no-margin ]
-> _Channeling: Investigations on Receiving Information from Paranormal Sources_, 1988
+
 
 _**Channeling: Investigations on Receiving Information from Paranormal Sources**_ is a comprehensive study on channeling by Jon Klimo, first published in 1987. It consists of ten chapters with a foreword by Charles Tart.
 

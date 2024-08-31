@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[SpotBrown.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_How to Spot a Dangerous Man Before You Get Involved_, 2005
+
 
 _**How to Spot a Dangerous Man Before You Get Involved**_ is a book by Sandra L. Brown, originally published in 2005, which concerns how women can learn to spot eight basic types of pathological men and avoid becoming entangled in dangerous relationships.
 

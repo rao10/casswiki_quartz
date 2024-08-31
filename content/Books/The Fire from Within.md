@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Ccfirewithin.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Fire from Within_
+
 
 _**The Fire from Within**_ is the seventh book by [[Carlos Castaneda]], first published in 1984. The book introduces two important ideas: the "[petty tyrant‎]([[Petty tyrant]])", in [[Don Juan]]'s teaching that the seers of old learned to face the [[Unknown and unknowable|unknown]] by dealing with the petty tyrants of everyday life; and "[stalking]([[Stalking]])", where a [[Warrior|warrior]] exercises the virtues of control, [discipline]([[Discipline]]), forebearance, and timing towards the petty tyrants.
 

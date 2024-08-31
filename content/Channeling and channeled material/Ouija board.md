@@ -10,9 +10,6 @@ The board is not limited to a simple lettering, such as ABC, numbers, "yes", "no
 [[Laura Knight-Jadczyk]] used a board called "Psychic Circle", along with her own letterings added to it, to channel the [[Cassiopaeans]].
 
 ![[Spirit-board.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-Spirit board used by Knight-Jadczyk (copyright: Cherie Diez)
 
 See also
 --------

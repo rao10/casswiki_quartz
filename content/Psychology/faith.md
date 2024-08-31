@@ -1,6 +1,6 @@
 > [!info] Part of the Casswiki article series [[Psychology]] and [[Cassiopaean Experiment]]
 
-In [[FOTCM]] discourse, the term **belief** means a concept which is accepted as a given truth, without necessarily being critically evaluated. 'Belief' often connotates emotional attachment of the believer to the belief. At an extreme, such attachment turns the belief into a '[sacred cow]([[Sacred cow]])', defended through [emotional thinking]([[Emotional thinking]]). By contrast, the term **faith** may be used to connote the opposite – an open-minded attitude and trust in the process of inquiry.
+In [[FOTCM]] discourse, the term **belief** means a concept which is accepted as a given truth, without necessarily being critically evaluated. 'Belief' often connotates emotional attachment of the believer to the belief. At an extreme, such attachment turns the belief into a '[[Sacred cow|sacred cow]]', defended through [[Emotional thinking|emotional thinking]]. By contrast, the term **faith** may be used to connote the opposite – an open-minded attitude and trust in the process of inquiry.
 
 Understood in this way, 'belief' means having firmly decided that the world is a certain way and holding fast to this view even in the face of evidence to the contrary. In essence, one is attempting to force one's model on the world. Since there is then no regard for [[Truth|truth]], this involves a form of [[Subjectivity|subjectivity]] and [[internal considering]] regardless of whether what is believed happens to be correct or not.
 

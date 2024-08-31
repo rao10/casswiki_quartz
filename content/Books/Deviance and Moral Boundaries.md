@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Ben-Yehuda.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Deviance and Moral Boundaries_, 1987
+
 
 _**Deviance and Moral Boundaries: Witchcraft, the Occult, Science Fiction, Deviant Sciences and Scientists**_ is a book by Nachman Ben-Yehuda, first published in 1985. This is an important sociological work on certain pathologies in several areas that were not investigated previously by sociologists.
 

@@ -10,9 +10,9 @@ The [[Ra]] material (_The Law of One_) from the early 1980's speaks of such an e
 ![[Wave-flat.jpg|hsmall center ]]
 
 
-The [[FOTCM|FotCM]] sees the Wave as a strong working hypothesis but does not claim to possess certainty on its validity or a formal definition of the concept.
+The [[FOTCM|FOTCM]] sees the Wave as a strong working hypothesis but does not claim to possess certainty on its validity or a formal definition of the concept.
 
-The FotCM's interpretation of the concept could be outlined as follows: The universe involves different levels of being, each inhabited by entities suited to the level. Some of these levels are in part physical, such as the one which present day humanity inhabits. Natural processes cause the veil between these levels to periodically be thinned or breached, creating a sort of crossroads or conduit. This is a sort of superposition of many usually sealed levels of being.
+The [[FOTCM|FOTCM]]'s interpretation of the concept could be outlined as follows: The universe involves different levels of being, each inhabited by entities suited to the level. Some of these levels are in part physical, such as the one which present day humanity inhabits. Natural processes cause the veil between these levels to periodically be thinned or breached, creating a sort of crossroads or conduit. This is a sort of superposition of many usually sealed levels of being.
 
 Outside of the natural process, there are entities which use technology or psychic capabilities for passing between levels. The [[UFO phenomenon]] is one example of this. These levels are called [[Density|densities]] in the Cassiopaean and Ra materials. Other sources use other names, for example [[Cosmoses (Fourth Way)|cosmoses]] in the [[Fourth Way]] literature.
 
@@ -26,13 +26,13 @@ The Wave has been compared to a waterfall. The river runs placidly up to the bri
 
 Phase change, as in passage from solid to liquid to gaseous has been used as an analogy for shift of density. A small increment of energy causes qualitative changes in the substance and its properties.
 
-In the waterfall analogy, we note that in order to survive the plunge, one must be solid. When applied to a group of beings, as well as to the multiple little 'I's of each individual, this means that these must be cohesive and aligned to a common purpose. The FotCM uses the term co-linearity for this when speaking of a group. When speaking of an individual the term is fusion or having a real I. Failing this quality, one is likely to be ripped apart by the turbulence and not to preserve recognizable existence.
+In the waterfall analogy, we note that in order to survive the plunge, one must be solid. When applied to a group of beings, as well as to the multiple little 'I's of each individual, this means that these must be cohesive and aligned to a common purpose. The [[FOTCM|FOTCM]] uses the term co-linearity for this when speaking of a group. When speaking of an individual the term is fusion or having a real I. Failing this quality, one is likely to be ripped apart by the turbulence and not to preserve recognizable existence.
 
 The FotCM suggests that in the specific volatile circumstances corresponding to the waterfall, the quality of observation contributed to the process by the participants may make a large change in the outcome. This outcome may involve passage between densities, for example. Another example may be a split in timelines, as in the many worlds interpretation of quantum physics. Thus persons embracing one mode of being may literally end up in a different reality than other persons.
 
 The processes in question are not strictly physical, although physical chaos is one likely reflection of the wider process. The process is seen as a macrocosmic quantum jump, determined by conscious observation. Just like the observation event is needed to force a quantum system to a specific state, observation is needed to guide the events inside the Wave.
 
-This is one reason for the FotCM's and Fourth Way Work's emphasis on objectivity and clarity of understanding and work on forging a real "I".
+This is one reason for the [[FOTCM|FOTCM]]'s and Fourth Way Work's emphasis on objectivity and clarity of understanding and work on forging a real "I".
 
 Polarization to a sufficient purity of service to others or service to self is not possible without [[Knowledge|knowledge]] of the world and a capacity for long term, unambiguous work. Still further, a group is needed to bring the requisite scope and consistency to the observation – at least in the case of STO development.
 

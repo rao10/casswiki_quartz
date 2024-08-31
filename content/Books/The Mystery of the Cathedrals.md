@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[LeMystere.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Mystery of the Cathedrals_, 2007
+
 
 _**Le Mystère des Cathédrales: et l'interprétation ésotérique des symboles hermétiques du grand œuvre**_ (_Mystery of the Cathedrals: Esoteric Interpretation of Hermetic Symbols of The Great Work_) is a _magnum opus_ by [[Fulcanelli]], first published in French in Paris in 1926, with prefaces by Eugène Canseliet; a hermetic study of French Gothic cathedrals, which details the hidden code of [alchemy]([[Alchemy]]).
 

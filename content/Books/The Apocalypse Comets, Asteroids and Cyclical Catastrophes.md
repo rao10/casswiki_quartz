@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[comets.png|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> _The Apocalypse: Comets, Asteroids and Cyclical Catastrophes_, 2012
+
 
 _**The Apocalypse: Comets, Asteroids and Cyclical Catastrophes**_ is a book by [[Laura Knight-Jadczyk]], published in 2012.
 

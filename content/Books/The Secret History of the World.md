@@ -1,8 +1,6 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[SHotW.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> _The Secret History of the World_, 2005
 
 _**The Secret History of the World and How to Get Out Alive**_ is a tome by [[Laura Knight-Jadczyk]], first published in 2005, and it was previously published as _Ancient Science_ . This book is the first volume of _The Secret History of the World_ series, followed by _Comets and the Horns of Moses_ and _Earth Changes and the Human-Cosmic Connection_ (by [[Pierre Lescaudron]]). This volume is a broad overview of the author's research into mythology, archaeology, traditions and history, and it also deals with astronomy and evidence of ancient cataclysms. The thrust is to piece together a multidisciplinary view of human history and the falsification of same for purposes of control.
 

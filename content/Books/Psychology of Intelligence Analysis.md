@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Heuer.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Psychology of Intelligence Analysis_, 2010
+
 
 _**Psychology of Intelligence Analysis**_ is a book by Richard J. Heuer, Jr., first published in 1999 by CIA's Center for the Study of Intelligence.
 

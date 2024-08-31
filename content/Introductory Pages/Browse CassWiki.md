@@ -5,7 +5,7 @@ Main topics
 
 Below are the main topics of the wiki. From each of them, you can in turn reach its subtopics.
 
-*   [[Abbreviations]] (Abbreviations commonly used in online discussion, either on the Internet at large, or more particularly by the FotCM and related groups. Some of them may appear in article text, or in quoted content included in them.)
+*   [[Abbreviations]] (Abbreviations commonly used in online discussion, either on the Internet at large, or more particularly by the [[FOTCM|FOTCM]] and related groups. Some of them may appear in article text, or in quoted content included in them.)
 *   [[Books]] (Books on different topics, and recommended reading.)
 *   [[Cassiopaean Experiment]] (The name coined for Laura Knight-Jadczyk's experiment with critical channeling. The channeled material which this experiment has led to is used as a source of inspiration for research, and the larger process of inquiry is inseparable from the Cassiopaean Experiment.)
 *   [[Channeling and channeled material]] (To channel is to serve as a medium through which an entity communicates with living persons. Some channeled material can be verified to be true, but most can not – and plenty can be verified to be either false or meaningless word salad. The best channeled material can give valuable inspiration for critical-minded research – while most of it can grossly mislead. There are many concepts conveyed through channeling to examine.)
@@ -39,7 +39,7 @@ Alphabetical index
 
 ##### A
 
-*   [[Abbreviations]] (Abbreviations commonly used in online discussion, either on the Internet at large, or more particularly by the FotCM and related groups. Some of them may appear in article text, or in quoted content included in them.)
+*   [[Abbreviations]] (Abbreviations commonly used in online discussion, either on the Internet at large, or more particularly by the [[FOTCM|FOTCM]] and related groups. Some of them may appear in article text, or in quoted content included in them.)
 *   [[Adamic man]] (A human being who has an individuated soul.)
 *   [[Agents]] (Individuals who either deliberately or unconsciously seek to derail the efforts of another towards spiritual progress or towards fulfillment of a personal mission.)
 *   [[Aim]] (In order to make progress in the Work, one must have an aim.)

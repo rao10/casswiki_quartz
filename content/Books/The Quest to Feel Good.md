@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[QuestGood.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Quest to Feel Good_, 2010
+
 
 _**The Quest to Feel Good**_ is a book by Paul R. Rasmussen, first published in 2010.
 

@@ -7,7 +7,7 @@ The idea is reminiscent of Plato's symposium, where one speaker describes the Ed
 
 According to Mouravieff, each (adamic) person will at least once meet his/her polar opposite. Recognizing this may lead to the singular romance, which holds great possibilities of esoteric progress. Partial polarity is, however, more frequently seen and one cannot always tell the difference.
 
-The take of the FotCM is that such polarity is sometimes indeed found but that the concept does not necessarily apply to people universally. Whichever be the case, work on the self, bringing the self into alignment with soul and growing the "real I" is the activity which makes recognizing the polar opposite, should there be one, most possible or likely. People converging on the same target will eventually encounter each other, thus the Work should come before hunting high and low for the "meant to be" romance.
+The take of the [[FOTCM|FOTCM]] is that such polarity is sometimes indeed found but that the concept does not necessarily apply to people universally. Whichever be the case, work on the self, bringing the self into alignment with soul and growing the "real I" is the activity which makes recognizing the polar opposite, should there be one, most possible or likely. People converging on the same target will eventually encounter each other, thus the Work should come before hunting high and low for the "meant to be" romance.
 
 See also
 --------

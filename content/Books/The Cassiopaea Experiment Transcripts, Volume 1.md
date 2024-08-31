@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[CET94.jpg|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> _The Cassiopaea Experiment Transcripts, Volume 1: 1994_, 2014
+
 
 _**The Cassiopaea Experiment Transcripts, Volume 1: 1994**_ contains the complete transcripts of 36 [[Cassiopaeans|Cassiopaean]]) sessions conducted in 1994, published in 2014 by Red Pill Press.
 

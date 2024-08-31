@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Keto-Adapted.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
+
 _**Keto-Adapted**_ is a book by Maria Emmerich, first published in 2013, which provides a practical guide to the [[Ketogenic diet|ketogenic diet]]. It is short, easy to read, and covers a lot of common issues that people run into when attempting to transition to a ketogenic diet.
 
 Apart from giving practical suggestions, this book briefly covers the theory behind the ketogenic diet. It also contains some recipes. The combination of serving as a quick and simple introduction, and also providing useful advice on how to solve various issues, makes this book very suitable for those interested in getting started with a ketogenic diet, as well as for those who've begun and run into issues along the way.

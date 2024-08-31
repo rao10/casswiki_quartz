@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[You_Are_Not_So_Smart.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_You Are Not So Smart_, 2011.
+
 
 _**You Are Not So Smart: Why You Have Too Many Friends on Facebook, Why Your Memory Is Mostly Fiction, and 46 Other Ways You're Deluding Yourself**_ is a book by David McRaney, first published in 2011. In an informative, yet humorous and easy-going way, it describes a large number of cognitive biases, logical fallacies, and in general, ways in which people think and act which are not in their own best interests, as a result of the flaws of the human [[Brain|brain]] and mind.
 

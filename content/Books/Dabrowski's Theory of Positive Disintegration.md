@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[dabrowski.png|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> _Dabrowski's Theory of Positive Disintegration_, 2008.
+
 
 _**Dabrowski's Theory of Positive Disintegration**_ is a collection of essays on the Theory of Positive Disintegration, edited by Sal Mendaglio and first published in 2008.
 

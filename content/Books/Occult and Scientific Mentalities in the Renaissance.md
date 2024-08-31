@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[occultrenaissane.jpg|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Occult and Scientific Mentalities in the Renaissance_, 1986 edition
+
 
 _**Occult and Scientific Mentalities in the Renaissance**_ is an academic book, edited by Brian Vickers, of 13 essays, first published in 1984.
 

@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Darwindoubt.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Darwin's Doubt_, 2013
+
 
 _**Darwin's Doubt: The Explosive Origin of Animal Life and the Case for Intelligent Design**_ is a book by philosopher Stephen C. Meyer, first published in 2013, which expands on the case for intelligent design that the author presented in his previous book _[[Signature in the Cell]]_.
 

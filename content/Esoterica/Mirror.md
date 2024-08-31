@@ -29,7 +29,7 @@ Hope of feeling is slavery
 
 Hope of body is disease.
 
-The [[FOTCM|FotCM]] teaches that introducing objective observation into the system of one's reality creates order and makes creative interaction possible whereas wishfulness increases chaos. In a state of objectivity directed action is possible whereas a state of greater chaos compels one to simply respond to outside circumstance.
+The [[FOTCM|FOTCM]] teaches that introducing objective observation into the system of one's reality creates order and makes creative interaction possible whereas wishfulness increases chaos. In a state of objectivity directed action is possible whereas a state of greater chaos compels one to simply respond to outside circumstance.
 
 See also
 --------

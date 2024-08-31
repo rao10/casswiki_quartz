@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Manufacturedterror.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Manufactured Terror: The Boston Marathon Bombings, Sandy Hook, Aurora Shooting and Other False Flag Terror Attacks_, 2014
+
 
 _**Manufactured Terror: The Boston Marathon Bombings, Sandy Hook, Aurora Shooting and Other False Flag Terror Attacks**_ is a Sott.net anthology by Joe Quinn and Niall Bradley, first published in 2014.
 

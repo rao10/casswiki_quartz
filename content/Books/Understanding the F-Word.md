@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[McGowanFword.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Understanding the F-Word_, 2001
+
 
 _**Understanding the F-Word: American Fascism and the Politics of Illusion**_ is a book by David McGowan, published in 2001, which offers an alternative and disturbing review of the last century of United States history.
 

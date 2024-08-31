@@ -22,7 +22,7 @@ My clients with PCS issues always have this Abyss, like the workaholic who is af
 
 The Abyss is similar to what is known as "Shadow" in Jungian psychology, which may refer to an unconscious aspect of the individual which the conscious does not identify in themselves.
 
-This book is highly recommended by [[FOTCM|FotCM]] as it is a valuable tool for any individual who recognizes these types of issues, that they may have them in terms of just overcoming them and giving some control, essentially of their lives.
+This book is highly recommended by [[FOTCM|FOTCM]] as it is a valuable tool for any individual who recognizes these types of issues, that they may have them in terms of just overcoming them and giving some control, essentially of their lives.
 
 Further readings
 ----------------

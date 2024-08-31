@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[fulcanelli.png|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> _Fulcanelli: His True Identity Revealed_, 2006
+
 
 _**Fulcanelli: His True Identity Revealed**_ is a book by Patrick Rivière, published in 2006 by [Red Pill Press](https://www.redpillpress.com/).
 

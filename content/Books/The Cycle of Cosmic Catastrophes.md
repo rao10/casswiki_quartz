@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[CCCFirestone.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Cycle of Cosmic Catastrophes_, 2006
+
 
 _**The Cycle of Cosmic Catastrophes: Flood, Fire, and Famine in the History of Civilization**_ is a scholarly work by Richard Firestone, Allen West, and Simon Warwick-Smith, first published in 2006.
 

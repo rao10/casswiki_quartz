@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Gnosis.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Gnosis, Book One: The Exoteric Cycle_, 1989 edition
+
 
 _**Gnosis: Study and Commentaries on the Esoteric Tradition of Eastern Orthodoxy**_ is a three-volume work by [[Boris Mouravieff]], first published in French in 1961, which documents the inner tradition of Eastern Orthodoxy.
 

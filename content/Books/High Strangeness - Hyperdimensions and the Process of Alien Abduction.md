@@ -1,3 +1,7 @@
+> [!info] Part of the Casswiki article series [[Books]]
+
+![[highstrangeness.jpg|hsmall center]]
+
 [[ High Strangeness - Hyperdimensions and the Process of Alien Abduction|High Strangeness:  Hyperdimensions and the Process of Alien Abduction]] is a comprehensive book by [[Laura Knight-Jadczyk]], first published in 2OO4 by Red Pill Press, which conveys the ”big picture” regarding UFOs and the nature and role of ”[[aliens]]”. This book is an enlightening attempt to weave together the contradictory threads of religion, science, history, alien abduction, and the true nature of political conspiracies. With thorough research and a drive for the truth, the author strips away the facades of offcialc culture and opens doors to understanding our reality. 
 
 By using her detailed research on the [[UFO Phenomenon|Unidentified Flying Objects phenomenon]] based on the clues from her [[superluminal communication]] with the [[Cassiopaeans]], Knight-Jadczyk wrote this book to bring the reader to see a unique perspective on the UFO phenomenon by offeringt the relevant information, detailed research, and the author’s experiences. There are four parts in the book with the additions of ”Foreword” and ”Author’s Letter to the Reader”.  Throughout this work, there is a certain understanding about how certain hyperdimensional race have been interfering with our reality and their relationship with our world by looking brieflya at who are Cassiopaeans, the Lizards, and the Grays. 

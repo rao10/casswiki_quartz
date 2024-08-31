@@ -3,7 +3,7 @@ The main article in the series
 
 Abbreviations
 
-Following are some **abbreviations** commonly used in online discussion, either on the Internet at large, or more particularly by the [[FOTCM|FotCM]] and related groups. Some of them may appear in article text, or in quoted content included in them.
+Following are some **abbreviations** commonly used in online discussion, either on the Internet at large, or more particularly by the [[FOTCM|FOTCM]] and related groups. Some of them may appear in article text, or in quoted content included in them.
 
 | Abbreviation               | Definition                                                                                                                                                                                                                                                                              |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

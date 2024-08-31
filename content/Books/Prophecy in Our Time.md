@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[PiotEbon.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Prophecy in Our Time_, 1971
+
 
 _**Prophecy in Our Time**_ is a book by Martin Ebon, first published in 1968.
 

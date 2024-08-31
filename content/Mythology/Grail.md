@@ -5,7 +5,7 @@ In standard usage, the Holy Grail is a cup or platter used at the last supper by
 
 The field of claimed esoteric culture is full of references to the Grail in a bewildering array of contexts and constructions.
 
-The Grail mythos was popularized in the 12th century by [[Chrétien de Troyes]]. This was followed by a multiplicity of prequels and sequels, most claiming to draw on some hidden tradition or secret source. The only thing that seems relatively sure is that much confusion was spread over a probably ancient, pre-Christian complex of myth.
+The Grail mythos was popularized in the 12th century by _Chrétien de Troyes_. This was followed by a multiplicity of prequels and sequels, most claiming to draw on some hidden tradition or secret source. The only thing that seems relatively sure is that much confusion was spread over a probably ancient, pre-Christian complex of myth.
 
 _[[The Secret History of the World|Secret History]]_ analyzes the topic in some detail. The scholars Littleton and Malcor in their book, _From Scythia to Camelot: A Radical Reassessment of the Legends of King Arthur, the Knights of the Round Table, and the Holy Grail_, trace the Grail theme to the Nart sagas of Ossetia, in Southern Caucasus. The themes of the cup, lance etc. would have come with Alanic mercenaries from Iran/Caucasus to the British Isles and Western Europe in the 5th century with the Roman occupation.
 

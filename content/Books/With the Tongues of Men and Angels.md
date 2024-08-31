@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]] and [[Channeling and channeled material]]
 
 ![[Hastings.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_With the Tongues of Men and Angels: A Study of Channeling_, 1991
+
 
 _**With the Tongues of Men and Angels: A Study of Channeling**_ is a short book by Arthur Hastings, first published in 1991. A useful study of the [channeling]([[Channeling and channeled material]]) phenomenon, though not very comprehensive, it mainly focus on various "mediums" who channel, rather than on channeling itself.
 

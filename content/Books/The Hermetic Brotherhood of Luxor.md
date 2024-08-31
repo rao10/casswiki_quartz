@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Luxorbook.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Hermetic Brotherhood of Luxor_, 1995
+
 
 _**The Hermetic Brotherhood of Luxor: Initiatic and Historical Documents of an Order of Practical Occultism**_ is a volume-length scholarly and academic study of a 19th Century initiatic occult organization by Joscelyn Godwin, Christian Chanel, and John P. Deveney, first published in 1995.
 

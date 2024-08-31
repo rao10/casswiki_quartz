@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Lifeisreligion.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Life Is Religion_, 2013
+
 
 _**Life Is Religion: 12 Daily Exercises for Mind, Body, and Soul**_ is a small book assembled by Cassiopaea Forum members ([[Quantum Future Group]]), published in 2013 by Red Pill Press.
 

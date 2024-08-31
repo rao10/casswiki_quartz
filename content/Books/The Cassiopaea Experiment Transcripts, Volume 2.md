@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[CET1995.jpg|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> _The Cassiopaea Experiment Transcripts, Volume 2: 1995_, 2015
+
 
 _**The Cassiopaea Experiment Transcripts, Volume 2: 1995**_ contains the complete transcripts of 51 [[Cassiopaeans|Cassiopaean]] sessions conducted in 1995, published in 2015 by Red Pill Press.
 

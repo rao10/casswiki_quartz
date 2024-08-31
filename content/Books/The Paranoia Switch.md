@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Paranoia.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Paranoia Switch_, 2007
+
 
 _**The Paranoia Switch: How Terror Rewires Our Brains and Reshapes Our Behavior--and How We Can Reclaim Our Courage**_ is a book by Martha Stout, first published in 2007. In this book, the author illustrates the American public's fear-based responses to terrorist attacks, global warming, and natural disasters, and offers advice about how to curb those fears.
 

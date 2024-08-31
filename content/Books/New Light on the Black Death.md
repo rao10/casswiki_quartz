@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[LightBlackDeath.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_New Light on the Black Death_, 2006
+
 
 _**New Light on the Black Death: The Cosmic Connection**_ is a book by Mike Baillie, published in 2006. This book makes a compelling case for the nature of the Black Death in A.D. 1348, drawing upon tree ring and Greenland ice core evidence, along with contemporary accounts and mythical stories. The evidence suggests that the deaths were actually the result of cometary interactions.
 

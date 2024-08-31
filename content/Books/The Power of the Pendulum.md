@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Lethbridge.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Power of the Pendulum_, 1984
+
 
 _**The Power of the Pendulum**_ is a posthumous book by archaeologist/psychic researcher T. C. Lethbridge, first published in 1976, which documents the author's research into dowsing by means of the pendulum and his experiments with dreams, concluding that there are other "realms" outside our perceptions or our sense of reality.
 

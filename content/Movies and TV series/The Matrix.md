@@ -1,8 +1,6 @@
 > [!info] Part of the Casswiki article series [[Movies and TV series]]
 
 ![[The-Matrix.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
->  The Matrix, 1999
 
 _**The Matrix**_ is a 1999 film created by The Wachowskis, depicting a future where a reality as perceived by most humans is a simulated world called "the Matrix", created by the machines to control the human population, while their bodies are being used as an energy source. Computer programmer Thomas Anderson ("Neo") discovers this truth and found himself into a fight with allies against the machines.
 

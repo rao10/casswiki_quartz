@@ -17,7 +17,7 @@ The gene pool of humanity is so mixed that Adamics and pre-Adamics can coexist i
 Further reading
 ---------------
 
-*   [[Gnosis (book trilogy)|_Gnosis_ (book trilogy)]]
+*   [[Gnosis (book trilogy)]]
 
 See also
 --------

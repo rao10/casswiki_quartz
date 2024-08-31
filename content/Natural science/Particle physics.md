@@ -1,8 +1,6 @@
 
 > [!info] Part of the Casswiki article series [[Natural science]]
 
-Natural science
-
 Particle physics is a branch of physics that studies the elementary constituents of matter and radiation, and the interactions between them. It is also called high energy physics, because many elementary particles do not occur under normal circumstances in nature, but can be created and detected during energetic collisions of other particles, as is done in particle accelerators.
 
 Subatomic particles

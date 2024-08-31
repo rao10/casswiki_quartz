@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[MeanGenes.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Mean Genes_, 2001 Edition
+
 
 _**Mean Genes: From Sex To Money To Food: Taming Our Primal Instincts**_ is a short evolutionary psychology work by economics professor Terry Burnham and biology professor Jay Phelan, first published in 2000, which illustrate the point that we are genetically programmed to do things that are bad for us - body image, money, addiction, violence, and relationships, friendship, love - all of which influenced by our genes.
 

@@ -1,11 +1,9 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Mythofsanity.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Myth of Sanity_, 2002
 
-_**The Myth of Sanity: Divided Consciousness and the Promise of Awareness**_ is a book by Martha Stout, first published in 2001, which concerns psychological trauma and dissociation in everyday life and steps to the reintegration of awareness. [[FOTCM|FotCM]] uses this book as a teaching tool for its members, as it is discovered that any group that wishes to work together on any kind of project needs to know themselves as well as possible so as to avoid interpersonal conflict in a working environment.
+
+_**The Myth of Sanity: Divided Consciousness and the Promise of Awareness**_ is a book by Martha Stout, first published in 2001, which concerns psychological trauma and dissociation in everyday life and steps to the reintegration of awareness. [[FOTCM|FOTCM]] uses this book as a teaching tool for its members, as it is discovered that any group that wishes to work together on any kind of project needs to know themselves as well as possible so as to avoid interpersonal conflict in a working environment.
 
 _The Myth of Sanity_ is one of the best analysis on dissociated mental states, forgotten memories of childhood or adult trauma, and multiple personality disorders. Stout brings the tales of dissociated states or multiple personalities from her patients and her experiences with them, and how these states are often common in everyday life.
 

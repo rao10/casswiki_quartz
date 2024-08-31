@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[McGowanPK.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Programmed to Kill_, 2004
+
 
 _**Programmed to Kill: The Politics of Serial Murder**_ is a book by David McGowan, published in 2004, which gives an alternative and disturbing look at violent crime in twentieth-century America, where the author ties serial murders, programmed assassins, satanic cults and child pornography and prostitution to a fascist political and military conspiracy of frightening scope.
 

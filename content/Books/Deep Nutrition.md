@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[DeepNutrition.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Deep Nutrition_, 2009
+
 
 _**Deep Nutrition: Why Your Genes Need Traditional Food**_ is a book by Catherine Shanahan and Luke Shanahan, published in 2009, which goes into the studies of "epigenetics" and how much influence diet and nutrition has on the proper expression and functioning of the genes (and the effects carried over generations).
 

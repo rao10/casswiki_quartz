@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Obrien.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Operators and Things_, 2011
+
 
 _**Operators and Things: The Inner Life of a Schizophrenic**_ is a 1958 memoir by Barbara O'Brien, a unique work in its depiction of schizophrenia as experienced from the inside out.
 
@@ -17,7 +15,7 @@ Regarding on the nature of the "Operators", the author gives a good summary from
 > 
 > Primarily, an operator is concerned with making points. He does this usually by engaging in draws with other operators. In a draw, a group of operators are concerned with influencing the actions and thoughts of the thing. A selection of subjects is drawn up, one is chosen and each operator in turn enters and influences the thinking of the thing upon that subject. The operator who has had the greatest influence upon the thing and motivated its actions and thinking to the greatest extent wins the draw which means winning the points each operator has put up to enter the draw. When draws are questioned by operators, an authority given the authority judiciates it.
 
-In [[FOTCM|FotCM]] discourse, the Operators are identified with [cryptogeographic beings]([[Cryptogeographic being]]) as [[Laura Knight-Jadczyk]] described in one of her _The Wave_ chapters: ["The Cryptogeographic Being"](http://cassiopaea.org/2012/01/19/the-wave-chapter-52-the-cryptogeographic-being/). The Operators' mode of existence is service to self, and they have "super-human" abilities, yet they do not considered to be inhibiting [[Fourth density|4th density]]. They seem to invisibly inhabit our plane of existence ([[Third density|3rd density]]) and are superimposed over what we would usually perceive as normal people.
+In [[FOTCM|FOTCM]] discourse, the Operators are identified with [cryptogeographic beings]([[Cryptogeographic being]]) as [[Laura Knight-Jadczyk]] described in one of her _The Wave_ chapters: ["The Cryptogeographic Being"](http://cassiopaea.org/2012/01/19/the-wave-chapter-52-the-cryptogeographic-being/). The Operators' mode of existence is service to self, and they have "super-human" abilities, yet they do not considered to be inhibiting [[Fourth density|4th density]]. They seem to invisibly inhabit our plane of existence ([[Third density|3rd density]]) and are superimposed over what we would usually perceive as normal people.
 
 Further readings
 ----------------

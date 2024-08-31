@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Darkenedroom.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Darkened Room: Women, Power and Spiritualism in Late Victorian England_, 2004
+
 
 _**The Darkened Room: Women, Power and Spiritualism in Late Victorian England**_ is a work by British historian Alex Owen, first published in 1989.
 

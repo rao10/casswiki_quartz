@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Hauntedpeople.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Haunted People_, 1951
+
 
 _**Haunted People: The Story Of The Poltergeist Down The Centuries**_ is a book by paranormal researchers Hereward Carrington and Nandor Fodor, first published in 1951.
 

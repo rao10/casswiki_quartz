@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[PertEmotion.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Molecules Of Emotion_, 1999 Edition
+
 
 _**Molecules Of Emotion: The Science Behind Mind-Body Medicine**_ is a book by neuroscientist Candace B. Pert, first published in 1997, which concerns with how the chemicals inside our bodies form a dynamic information network, linking mind and body.
 

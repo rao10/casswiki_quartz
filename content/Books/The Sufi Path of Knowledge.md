@@ -1,15 +1,13 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Chittick.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Sufi Path of Knowledge_, 1989
+
 
 _**The Sufi Path of Knowledge: Ibn Al-Arabi's Metaphysics of Imagination**_ is William C. Chittick's translation of more than 600 passages by Sufi al-Shaykh Akbar, Ibn al-'Arabi (A.D. 1165-1240), a well-known mystical thinker of Islamic civilization.
 
 This scholarly translation work was first published in 1989 and consists of over 500 pages with seven sections on Ibn al-'Arabi's theology, ontology, epistemology, hermeneutics, and soteriology. It has become the most important work in the study of Islamic mystical theology. Chittick made available an extensive clear translation of Ibn al-'Arabi's works and placing them in their theological context and removing many misunderstandings that had previously reigned among Muslims and in the West.
 
-This work is one of the FotCM recommended readings and is discussed and quoted in Laura's works, including [[The Wave Series|_The Wave_]].
+This work is one of the [[FOTCM|FOTCM]] recommended readings and is discussed and quoted in Laura's works, including [[The Wave Series|_The Wave_]].
 
 As Laura wrote in 46th chapter of _The Wave_:
 

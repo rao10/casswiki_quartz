@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[EdelsonDisorders.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_What Your Doctor May Not Tell You About Autoimmune Disorders_, 2003
+
 
 _**What Your Doctor May Not Tell You About Autoimmune Disorders**_ is a book by Stephen B. Edelson and Deborah Mitchell, published in 2003, which discusses the most common types of autoimmune diseases, outlining symptoms, causes, and risk factors with an addition of Edelson's own revolutionary program for treating the root of all autoimmune disorders.
 

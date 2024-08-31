@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[giftedchild.png|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> _The Drama of the Gifted Child_, 1990 Edition
+
 
 _**The Drama of the Gifted Child: The Search for the True Self**_ is a classic short book by Swiss psychoanalyst Alice Miller, originally published in German in 1979 as _Das Drama des begabten Kindes_, which reveals that one's childhood trauma are narcissistic wounds that can fester and "color" the way we see the world and ourselves well into adulthood.
 

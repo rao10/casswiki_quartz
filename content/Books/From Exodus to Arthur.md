@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Exodusarthur.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Exodus to Arthur_, 1999
+
 
 _**Exodus to Arthur: Catastrophic Encounters With Comets**_ is a book by Mike Baillie, published in 1999. This book presents the author's findings, based on the study of tree ring records, of what happened during a series of global environmental catastrophes over the past 4,400 years.
 

@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Theunquietdead.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Unquiet Dead_, 1987
+
 
 _**The Unquiet Dead: A Psychologist Treats Spirit Possession**_ is a book by clinical psychologist Edith Fiore, first published in 1987.
 

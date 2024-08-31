@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[The_Art_and_Science_of_Low_Carbohydrate_Living.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Art and Science of Low Carbohydrate Living_, 2011.
+
 
 _**The Art and Science of Low Carbohydrate Living**_ is a book by Stephen D. Phinney and Jeff S. Volek, first published in 2011. It provides extensive information for those interested in a low-carb approach (and especially in a [[Ketogenic diet|ketogenic diet]]), and gets pretty close to the ketogenic approach we have arrived at.
 

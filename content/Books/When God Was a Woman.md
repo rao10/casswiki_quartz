@@ -1,9 +1,6 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[WGWWmerlinstone.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_When God Was a Woman_, 1990
 
 _**When God Was a Woman**_ is a book by art historian Merlin Stone, first published in 1976 under the title _The Paradise Papers: The Suppression of Women's Rites_ in Great Britain. The book presents an archaeologically documented story of the religion of the [[Goddess]], where, during the prehistorical era, women's roles were far more prominent than in patriarchal cultures.
 

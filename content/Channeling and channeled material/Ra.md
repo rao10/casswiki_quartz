@@ -7,7 +7,7 @@ In the present context, Ra refers to the channeled entity of the _Law of One_ bo
 
 We often quote Ra in the present work for definitions having to do with higher densities, the polarity of STO and STS and other more metaphysical matters.
 
-Chakras and other aspects of the human being are discussed but [[FOTCM|FotCM]] generally finds the [[Fourth Way|4th Way]] concepts to be clearer and better applicable to modern humanity. The Ra material may have suffered from a bias to predominantly see the good in things, although the long-term infringement of human free will by 4th density STS forces is also discussed.
+Chakras and other aspects of the human being are discussed but [[FOTCM|FOTCM]] generally finds the [[Fourth Way|4th Way]] concepts to be clearer and better applicable to modern humanity. The Ra material may have suffered from a bias to predominantly see the good in things, although the long-term infringement of human free will by 4th density STS forces is also discussed.
 
 More commentary is available in the [_Wave_ series](http://cassiopaea.org/2010/05/08/the-wave-chapter-1-riding-the-wave/). The material itself is available at [L/L Research](http://www.llresearch.org/).
 

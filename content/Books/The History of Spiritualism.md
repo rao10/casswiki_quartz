@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[SpiritualismDoyle.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The History of Spiritualism_, 2009 edition
+
 
 _**The History of Spiritualism**_ is an adroit two-volume work by Sir Arthur Conan Doyle, first published in 1926.
 

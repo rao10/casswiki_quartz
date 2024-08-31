@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[newlands.jpg|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_New Lands_, 1974 Edition
+
 
 _**New Lands**_ is a book by Charles Hoy Fort, first published in 1925, continuing his study of "anomalous phenomena", with this work mainly focusing on "astronomical anomalies". This is the second of Fort's four books, preceded by _[[The Book of the Damned]]_ (1919), followed by _[[Lo!]]_ (1931) and _[[Wild Talents]]_ (1932).
 

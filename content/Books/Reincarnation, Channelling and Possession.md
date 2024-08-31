@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]] and [[Channeling and channeled material]]
 
 ![[Auerbach.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Reincarnation, Channeling and Possession_, 1993
+
 
 _**Reincarnation, Channeling and Possession: A Parapsychologist's Handbook**_ is a book by parapsychologist Loyd Auerbach, first published in 1993.
 

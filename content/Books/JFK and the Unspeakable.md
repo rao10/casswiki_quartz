@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[JFK_Douglass.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_JFK and the Unspeakable_
+
 
 _**JFK and the Unspeakable: Why He Died and Why It Matters**_ is a book by Christian theologian James W. Douglass, first published in 2008, which is the most comprehensive and shocking treatment of the forces behind the death of President John F. Kennedy. This book analyzes Kennedy's presidency as well as the events and the machinations of psychopathy behind the assassination.
 

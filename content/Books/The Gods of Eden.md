@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Godsofeden.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Gods of Eden_, 1989
+
 
 _**The Gods of Eden**_ is a book by historian William Bramley, first published in 1989.
 

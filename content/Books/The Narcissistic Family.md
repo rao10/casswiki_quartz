@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[NF01.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Narcissistic Family_
+
 
 _**The Narcissistic Family: Diagnosis and Treatment**_ is a book by Stephanie Donaldson-Pressman and Robert M. Pressman, first published in 1997. In this book, the authors present a therapeutic model for understanding and treating adults from emotionally abusive or neglectful families, which the authors refers to as [[Narcissism|narcissistic]] families. The book provides an excellent overview of narcissistic family dynamics and the resulting problem of narcissistic wounding.
 

@@ -1,7 +1,7 @@
 
 > [!info] Part of the Casswiki article series [[Fourth Way]]
 
-This term has a special meaning in [[Fourth Way|4th Way]] and [[FOTCM|FotCM]] discourse.
+This term has a special meaning in [[Fourth Way|4th Way]] and [[FOTCM|FOTCM]] discourse.
 
 Gurdjieff originally wrote that man cannot do. There are many reasons, from the metaphysical to the psychological for why man cannot do.
 

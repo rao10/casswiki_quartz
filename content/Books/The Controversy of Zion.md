@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[ConZion.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Controversy of Zion_
+
 
 _**The Controversy of Zion**_ is a book by Douglas Reed, published in 1978, which examines 2,000 years of history of Zionism, its ideological leaders, development and establishment as well as analysing _[[The Protocols of the Learned Elders of Zion]]_. This work was completed in 1956, but not submitted for publication until two years after Reed's death.
 

@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[The_Polyvagal_Theory.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Polyvagal Theory_, 2011.
+
 
 _**The Polyvagal Theory**_ is a book by Stephen W. Porges, first published in 2011. It presents a highly informative collection of scientific papers on the behavioral and regulatory role of the autonomic nervous system, especially emotionally and socially.
 

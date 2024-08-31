@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Dwellings.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Dwellings of the Philosophers_, 1999
+
 
 _**Les Demeures Philosophales**_ (_The Dwellings of the Philosophers_) is a second and last known work by [[Fulcanelli]], first published in French in Paris in 1929, with thirty-nine illustrations by Jean-Julien Champagne. This two-volume/500-plus-page treatise consisted of further information on classical architecture and alchemy from his first work, _[[The Mystery of the Cathedrals]]_.
 

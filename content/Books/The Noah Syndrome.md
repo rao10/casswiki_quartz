@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[NoahSyndrome.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Noah Syndrome_, 2012
+
 
 _**The Noah Syndrome**_ is the first and long-unpublished book by [[Laura Knight-Jadczyk]], published in 2012.
 

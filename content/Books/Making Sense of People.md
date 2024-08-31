@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Making_Sense_of_People.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Making Sense of People: Decoding the Mysteries of Personality_, 2011.
+
 
 _**Making Sense of People: Decoding the Mysteries of Personality**_ is a book by Samuel Barondes, first published in 2011. It describes personality, and how it can be classified and observed, in terms of the Big Five personality traits. It also discusses the joint environmental and genetic basis of personality formation, and the question of character and character development, including how a person might deliberately work to improve his or her character.
 

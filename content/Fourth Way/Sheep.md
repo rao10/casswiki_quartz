@@ -1,5 +1,7 @@
 > [!info] Part of the Casswiki article series [[Fourth Way]]
 
+![[Sheep0001.png|hsmall center]]
+
 The **sheep** is [[George Gurdjieff]]'s allegory of human beings manifesting the group characteristic of "sheep". This is an anthropomorphic description of the fundamental fact that human behaviour is not all that dissimilar to that of sheep. This metaphor was mentioned by Gurdjieff in his story of the "[[Evil magician|evil magician]]" and the sheep.
 
 In this story, George Gurdjieff relates the fact that as farmyard animals, sheep are a commodity to be used and consumed by their human proprietors. Likewise, human beings are also the possessions and commodities of a higher force, or level of awareness.
@@ -12,9 +14,8 @@ Gurdjieff saw that human beings:
 *   Are easily manipulated to be moved in a certain direction or vector.
 *   Have little awareness of their surroundings or the predicament they are born into.
 
-![[Sheep0001.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
+
+
 See also
 --------
 

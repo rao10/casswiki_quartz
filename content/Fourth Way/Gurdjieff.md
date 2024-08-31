@@ -18,7 +18,7 @@ Gurdjieff appeared in Moscow in 1913 with a developed teaching and started organ
 
 Gurdjieff's basic pronouncement was that human life as ordinarily lived is similar to [[Waking sleep or confluence|sleep]], and to go beyond the state of sleep requires [[The Work|the Work]].
 
-Gurdjieff is one of the great influences on the [[FOTCM|FotCM]], representing a prior living tradition that has proven valuable in explaining the human condition time and again. Gurdjieff's teaching is comparable to a cold shower of realism, dispelling much of the fluffy wish-fulness of other esoteric teaching or of the [[New Age]].
+Gurdjieff is one of the great influences on the [[FOTCM|FOTCM]], representing a prior living tradition that has proven valuable in explaining the human condition time and again. Gurdjieff's teaching is comparable to a cold shower of realism, dispelling much of the fluffy wish-fulness of other esoteric teaching or of the [[New Age]].
 
 While Gurdjieff teaches a rather dim conception of the human condition, where man is, by default, only a mechanical part of a food chain, Gurdjieff's life's work demonstrates a faith in the possibility of this being altered, at least for a small portion of humanity.
 

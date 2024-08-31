@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[JessupUFO.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Case for the UFO_, 1955
+
 
 _**The Case for the UFO**_ is a book by Morris K. Jessup, first published in 1955, in which he argued that [[UFO]] represented a mysterious subject worthy of further study and presents issues surrounding the presence/observances of extraterrestrial beings and their manifestations. For this book, the author did an extensive research in the field of astronomy and his work pre-dates others, who drew the same conclusions (including Erich von Däniken). This book also reveals the story about the legendary [[Philadelphia Experiment]].
 

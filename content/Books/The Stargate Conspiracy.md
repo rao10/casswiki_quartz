@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Stargate_book.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Stargate Conspiracy_, 2001
+
 
 _**The Stargate Conspiracy: The Truth about Extraterrestrial life and the Mysteries of Ancient Egypt**_ is a book by Lynn Picknett and Clive Prince, first published in 1999. This book is a critical look into the history of the New Age movement in general and alternative Egyptology in particular.
 

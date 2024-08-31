@@ -1,8 +1,6 @@
 
 ![[Conference_of_the_birds.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Conference of the Birds_
+
 
 _**The Conference of the Birds**_ or _**Speech of the Birds**_, completed around 1177CE, is a Sufi classic by the Persian poet Farid ud-Din Attar.
 

@@ -1,8 +1,5 @@
 
 ![[Jules_Violle.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-French physicist Jules Violle, also known as the alchemist Fulcanelli
 
 Fulcanelli is inextricably linked to the modern idea of alchemy. Fulcanelli is only known through his books, _[[The Mystery of the Cathedrals]]_ (_Le Mystere des Cathedrales_) and _[[The Dwellings of the Philosophers]]_ (_Les Demeures Philosophales_), first published in French in Paris in 1926 and 1929 respectively.
 

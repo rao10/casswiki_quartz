@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[EIGoleman.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Emotional Intelligence_, 2005
+
 
 _**Emotional Intelligence: Why It Can Matter More Than IQ**_ is a book by psychologist Daniel Goleman, first published in 1995. It is the precursor to the author's 2006 book _[[Social Intelligence]]_ and conveys the "big picture" of the importance of emotional intelligence.
 

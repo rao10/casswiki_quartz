@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Strangers_to_Ourselves.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Strangers to Ourselves_, 2002.
+
 
 _**Strangers to Ourselves: Discovering the Adaptive Unconscious**_ is a book by Timothy D. Wilson, first published in 2002, which describes how our judgments, feelings, and motives are mostly ruled by the adaptive unconscious. Our explanations for what we do and feel, and all that comes to mind during introspection, are constructs made-up on the spot, and largely divorced from what actually directs us.
 

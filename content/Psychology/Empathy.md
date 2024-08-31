@@ -12,7 +12,7 @@ According to psychological studies, not all people have the capacity for empathy
 
 The notion of two different kinds of humans inhabiting this world is also found in Boris Mouravieff's work where he classifies the two groups as "Pre-Adamic" and "Adamic" man. Mouravieff indicates that Pre-Adamic man does not have the possibility of possessing higher centers, whereas the Adamic man may develop these.
 
-The idea of a duality in the population of Earth is also present throughout the Cassiopaean material. Observation readily reveals that the world at large does not seem to be operating with much empathy, but rather with the principals of division and ‘us versus them'. The [[FOTCM|FotCM]] has extensively researched the nature of psychopathy as well as how it has manifested throughout history and is presently unfolding on the world stage.
+The idea of a duality in the population of Earth is also present throughout the Cassiopaean material. Observation readily reveals that the world at large does not seem to be operating with much empathy, but rather with the principals of division and ‘us versus them'. The [[FOTCM|FOTCM]] has extensively researched the nature of psychopathy as well as how it has manifested throughout history and is presently unfolding on the world stage.
 
 See also
 --------

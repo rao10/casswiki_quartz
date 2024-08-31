@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[CosmicEgg.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Crack in the Cosmic Egg_, 2010
+
 
 _**The Crack in the Cosmic Egg: New Constructs of Mind and Reality**_ is a classic work by Joseph Chilton Pearce, first published in 1971.
 

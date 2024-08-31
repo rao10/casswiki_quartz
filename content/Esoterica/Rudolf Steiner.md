@@ -1,8 +1,5 @@
 
 ![[Rs18.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Rudolf Steiner_
 
 Rudolf Steiner, 1861-1925, was one of the most prolific esoteric authors of the 20th century.
 

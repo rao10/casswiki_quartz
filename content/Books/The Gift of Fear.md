@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[FeardeBecker.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Gift of Fear_
+
 
 _**The Gift of Fear: Survival Signals That Protect Us From Violence**_ is a book by Gavin de Becker, originally published in 1997.
 

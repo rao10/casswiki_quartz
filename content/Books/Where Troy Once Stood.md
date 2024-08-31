@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Where-troy-once-stood.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Where Troy Once Stood_, 2009
+
 
 _**Where Troy Once Stood**_ is a book by Iman Wilkens, first published in 1990. This book argues that the city of Troy was located in England and that the Trojan War was fought between groups of Celts.
 

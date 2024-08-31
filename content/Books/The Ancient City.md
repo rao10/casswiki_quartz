@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[AncientCity.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Ancient City_, 2006
+
 
 _**The Ancient City: A Study on the Religion, Laws, and Institutions of Greece and Rome**_ is a book by French historian Fustel de Coulanges, first published in 1864. Here, the author investigates the origins of the ancient institutions of Greek and Roman society and agrues that primitive religion played a major role in the political and social evolution of Greece and Rome.
 

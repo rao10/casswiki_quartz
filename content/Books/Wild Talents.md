@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Wild-Talents.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Wild Talents_
+
 
 _**Wild Talents**_ is a book by Charles Hoy Fort, first published in 1932, continuing his reports of unusual phenomena and his on-going attack on scientific theories. This book primarly focuses on various phenomena relating to psychic abilities - the "Wild Talents".
 

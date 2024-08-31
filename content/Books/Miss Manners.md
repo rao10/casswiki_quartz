@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[mismanners.jpg|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-Judith Martin, pen name "Miss Manners" (Universal Uclick)
+
 
 The _**Miss Manners**_ articles and books by American journalist Judith Martin describe, in a humorous way, how to be "excruciatingly correct".
 

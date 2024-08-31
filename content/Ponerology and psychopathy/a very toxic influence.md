@@ -2,7 +2,7 @@
 
 Ponerology and psychopathy
 
-**Ponerization** (from ancient Greek _poneros_ – evil), is a [ponerological]([[Ponerology]]) term coined by Dr. [Andrzej M. Łobaczewski]([[Andrew M. Lobaczewski]]). Ponerization is the influence of pathological people on individuals and groups whereby they develop acceptance of pathological reasoning and values.
+**Ponerization** (from ancient Greek _poneros_ – evil), is a [ponerological]([[Ponerology]]) term coined by Dr. [[Andrew M. Lobaczewski|Andrzej M. Łobaczewski]]. Ponerization is the influence of pathological people on individuals and groups whereby they develop acceptance of pathological reasoning and values.
 
 Individual scale
 ----------------

@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[predators.png|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> _Predators: Pedophiles, Rapists, And Other Sex Offenders_, 2003
+
 
 _**Predators: Pedophiles, Rapists, And Other Sex Offenders**_ is a book by clinical psychologist Anna C. Salter, originally published in 2003, which concerns sexual predators in stark detail; the book is both informative and shocking through its descriptions and case histories.
 

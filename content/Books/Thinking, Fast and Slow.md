@@ -2,8 +2,7 @@
 
 
 ![[Thinking%2C_Fast_and_Slow.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
+
 _**Thinking, Fast and Slow**_ is a book by Daniel Kahneman, first published in 2011. It describes the human mind in terms of two systems, System 1 and System 2. System 1 does fast, effortless, automatic information processing; System 2 is used during deliberate, effortful mental activities, for example complex calculations – and generally any analytical, step-by-step thinking.
 
 System 1 works by means of unconscious processes, and is also known as the adaptive unconscious, a collection of automatic information processing circuits in the human brain; System 2 is the consciously operated part of the intellect, where each mental step taken is deliberately chosen according to an evaluation.

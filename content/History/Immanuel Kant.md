@@ -1,7 +1,5 @@
 
 ![[Immanuel-Kant.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> _Immanuel Kant_
 
 **Immanuel Kant**, 1724-1804, is among the most influential thinkers of modern times.
 

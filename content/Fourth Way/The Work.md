@@ -171,7 +171,7 @@ All ‘Fourth Way’ topics
 *   [[Polar opposites or polar beings]] (Denotes a couple consisting of a man and a woman whose centers are precisely matched, a sort of union "made in heaven".)
 *   [[Prayer]] (In general, a prayer is an act that invites a connection with a deity or a spiritual entity through careful and conscious communication.)
 *   [[Presence or being present]] (Various notions exist of the meaning of 'being present'.)
-*   [[Principle of relativity (Fourth Way)]] (Gurdjieff sees this principle as a necessity to prevent misunderstandings arising from mixing one level of meaning with another resulting in what FotCM calls the cross conceptualization of ideas.)
+*   [[Principle of relativity (Fourth Way)]] (Gurdjieff sees this principle as a necessity to prevent misunderstandings arising from mixing one level of meaning with another resulting in what [[FOTCM|FOTCM]] calls the cross conceptualization of ideas.)
 *   [[Program (Fourth Way)]] (The term refers to a habitual pattern of thought or association or behavior.)
 *   [[Proper use of emotional energy]] (Emotions have their own place and own specific type of energy, which plays a necessary role in the human metabolism.)
 *   [[Reaction machine]] (The term reaction machine is sometimes used to describe man's mechanical nature. This applies to common man in general but especially to the organic portal or Pre-Adamic man and even more to the psychopath.)

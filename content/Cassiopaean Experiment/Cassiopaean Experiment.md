@@ -108,7 +108,7 @@ All ‘Cassiopaean Experiment’ topics
 *   [[Mental blocking]] (Spiritually holding one's ground or resisting attack.)
 *   [[Merkaba]] (Merkaba refers to some sort of space or time or interdimensional transportation device created by thought.)
 *   [[Networking]] (The natural form of organization for service to others, networking is a foretaste of fourth density STO.)
-*   [[Noise]] (Noise as used by the FotCM refers to any information which is irrelevant to a discussion, does not contribute meaningfully; detracts from the topic and/or confuses the issue.)
+*   [[Noise]] (Noise as used by the [[FOTCM|FOTCM]] refers to any information which is irrelevant to a discussion, does not contribute meaningfully; detracts from the topic and/or confuses the issue.)
 *   [[Objectivity]] (In general usage, the capacity to see things as they are.)
 *   [[Orchestra metaphor]] (Tolkien's creation myth tells the story of a world that was conceived in music.)
 *   [[Organic portal]] (The Cassiopaean term Organic Portal for preadamic man.)

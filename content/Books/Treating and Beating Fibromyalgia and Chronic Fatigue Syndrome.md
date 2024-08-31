@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Murphreebook.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Treating and Beating Fibromyalgia and Chronic Fatigue Syndrome_, 2013 Edition
+
 
 _**Treating and Beating Fibromyalgia and Chronic Fatigue Syndrome**_ is a book by Dr. Rodger H. Murphree, originally published in 2006, which exposes the medical myths, pharmaceutical propaganda and doctor ignorance that sabotages those with chronic illness. It also offers a step-by-step program to treat and beat Fibromyalgia (FMS) and Chronic Fatigue Syndrome (CFS).
 

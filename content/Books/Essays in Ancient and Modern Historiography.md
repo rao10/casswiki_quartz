@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[HistoriographyMomigliano.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Essays in Ancient and Modern Historiography_, 2012
+
 
 _**Essays in Ancient and Modern Historiography**_ is a book by Italian historian Arnaldo Momigliano, first published in 1977.
 

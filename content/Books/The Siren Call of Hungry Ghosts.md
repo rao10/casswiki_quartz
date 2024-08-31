@@ -1,9 +1,6 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Fisher.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Siren Call of Hungry Ghosts_
 
 _**The Siren Call of Hungry Ghosts: A Riveting Investigation Into Channeling and Spirit Guides**_ is a pivotal book by Canadian journalist Joe Fisher, first published in 1990 as _Hungry Ghosts_ in Canada and United Kingdom. The current title is the 2001 edition by Paraview Press, which is the first United States edition with a new foreword by Colin Wilson and an updated Epilogue.
 

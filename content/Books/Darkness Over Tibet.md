@@ -1,9 +1,6 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Illion.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Darkness Over Tibet_
 
 _**Darkness Over Tibet**_ is a book by Theodore Illion, first published in 1937, an allegoric account of the underground city in Tibet during the course of Illion's journey. He relates his experiences with his interactions with a number of individuals in the mentioned city. At first, he found there all is well and everything seems quite peaceful, but as it turned out later, nothing is as it seems. There is a known darkness and "unseen" darkness. This book reveals the "unseen" darkness where as the so-called "light" is actually the darkness in disguise.
 

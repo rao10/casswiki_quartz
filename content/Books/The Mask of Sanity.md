@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[The_Mask_of_Sanity.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Mask of Sanity_, 1982 edition.
+
 
 _**The Mask of Sanity: An Attempt To Clarify Some Issues About The So-Called Psychopathic Personality**_ is a book by Hervey M. Cleckley, first published in 1941. A seminal study of [[Psychopathy|psychopathy]], it has gone through five major revisions.
 

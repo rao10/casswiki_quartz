@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[OTH.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Operation Trojan Horse_, 1996
+
 
 _**Operation Trojan Horse**_ (or _**UFOs: Operation Trojan Horse**_) is a book by John Keel, published in 1970.
 

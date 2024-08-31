@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Eighthtower.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Eighth Tower_, cover design: 2013
+
 
 _**The Eighth Tower: On Ultraterrestrials and the Superspectrum**_ (non-US title: _**The Cosmic Question**_) is a book by John Keel, published in 1975, which is essentially a follow-up to the previous work, _The Mothman Prophecies_.
 

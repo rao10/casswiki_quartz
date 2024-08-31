@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[WCHare.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Without Conscience_, 1999
+
 
 _**Without Conscience: The Disturbing World of the Psychopaths Among Us**_ is a book by [[Psychopathy|psychopathy]] expert Robert D. Hare, first published in 1993. It is one of the most accessible, easy-to-read introductions to the reality of psychopathy.
 

@@ -1,8 +1,6 @@
 
 ![[Wr3p.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Wilhelm Reich_, 1927
+
 
 Wilhelm Reich, 1897-1957, is best known for introducing the concepts of "orgone energy" and "orgonomics". He was among the earlier representatives of 20th century science to seriously propose that mankind is beset and surrounded by a hostile extraterrestrial or hyperdimensional presence.
 

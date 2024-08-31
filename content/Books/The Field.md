@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Field.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Field_, 2001
+
 
 _**The Field: The Quest for the Secret Force of the Universe**_ is a book by journalist Lynne McTaggart, first published in 2001.
 

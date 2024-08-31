@@ -2,8 +2,6 @@
 
 ![[Brain_Changer.png|hsmall center]]
 
-> [!caption|center no-title no-icon no-margin ]
-_Brain Changer: How Harnessing Your Brain's Power to Adapt Can Change Your Life_, 2013.
 
 _**Brain Changer: How Harnessing Your Brain's Power to Adapt Can Change Your Life**_ is a book by David DiSalvo, first published in 2013. It describes our potential to change our [[Brain|brains]] through neuroplasticity, by consciously influencing the feedback loops that control our brains and minds.
 

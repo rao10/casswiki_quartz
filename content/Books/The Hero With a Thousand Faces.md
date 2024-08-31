@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Campbell.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Hero with a Thousand Faces_, 1973 Edition
+
 
 _**The Hero with a Thousand Faces**_ is the most influential work by comparative mythologist Joseph Campbell, first published in 1949. In this book, the author explores the theory of the journey of the [[Heroic archetype|archetypal hero]] (or the monomyth) found in world mythologies.
 

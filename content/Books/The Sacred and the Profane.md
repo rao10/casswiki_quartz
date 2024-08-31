@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Sacred.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> _The Sacred and the Profane: The Nature of Religion_, 1968
+
 
 _**The Sacred and the Profane: The Nature of Religion**_ is a scholarly work on spirituality by Mircea Eliade, first published in 1959. It consists of four chapters with an introduction and a chronological survey.
 

@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Roberts_James.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Afterdeath Journal of an American Philosopher_, 2001
+
 
 _**The Afterdeath Journal of an American Philosopher: The View of William James**_ is a book by Jane Roberts, first published in 1978. It consists of 16 chapters with an introduction and an epilogue.
 

@@ -1,7 +1,7 @@
 
 > [!info] Part of the Casswiki article series [[Cassiopaean Experiment]]
 
-In [[FOTCM|FotCM]] usage, this means making an objective interpretation of the signs of reality. This does not generally refer to unusual psychic or sensory experiences, visions or the like.
+In [[FOTCM|FOTCM]] usage, this means making an objective interpretation of the signs of reality. This does not generally refer to unusual psychic or sensory experiences, visions or the like.
 
 Wishful thinking is one of the principal obstacles to seeing the unseen. Wishful thinking interposes itself between the thinker and reality and prevents one from drawing the needed conclusions even when the data exists and is at least at some level known. This is in effect preferring comfort over truth, and may lead to fatally underestimating real dangers.
 

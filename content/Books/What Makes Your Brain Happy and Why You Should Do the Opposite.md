@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[WMYBH.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_What Makes Your Brain Happy and Why You Should Do the Opposite_, 2011
+
 
 _**What Makes Your Brain Happy and Why You Should Do the Opposite**_ is the first book by David DiSalvo, published in 2011. Based on the findings of cognitive psychology and on evolutionary thinking, it describes the human brain's blind striving to be in a "pleasant" state, and the faulty thinking and bad decisions this can lead to.
 

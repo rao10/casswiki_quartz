@@ -27,4 +27,3 @@ See also
 --------
 
 *   [[Particle]]
-*   Waves

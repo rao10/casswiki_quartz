@@ -4,7 +4,7 @@
 
 The methods of COINTELPRO include placing agent provocateurs into targeted organizations, false allegations of wrongdoing, planting false evidence, setting up fake organizations for fomenting discord within a movement and many other modes of harassment and disruption.
 
-The [[FOTCM]] sees much of the [[New Age]] movement as "cosmic cointelpro", aimed at propagating [plausible lies]([[Plausible lie]]) to mislead those who are no longer content with the answers of standard religion. The 'space brothers are here to save us' meme is an example.
+The [[FOTCM]] sees much of the [[New Age]] movement as "cosmic cointelpro", aimed at propagating [[Plausible lie|plausible lies]] to mislead those who are no longer content with the answers of standard religion. The 'space brothers are here to save us' meme is an example.
 
 Essentially, The extreme factionalization of the UFO research community is an example of the results of COINTELPRO.
 

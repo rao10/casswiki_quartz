@@ -1,9 +1,6 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[escapefromevil.jpg|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Escape From Evil_
 
 _**Escape From Evil**_ is the last book by cultural anthropologist Ernest Becker, first published in 1975, which continues with the themes developed in his 1973 book, _[[The Denial of Death]]_, exploring the frightening needs of diverse social groups, looking into the deep inner fears of man.
 

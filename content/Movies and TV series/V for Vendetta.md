@@ -1,14 +1,12 @@
 > [!info] Part of the Casswiki article series [[Movies and TV series]]
 
 ![[Vforvendetta.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> _V for Vendetta_, 2006
 
 _**V for Vendetta**_ is a 2006 film, written by the Wachowskis, based on Alan Moore and David Lloyd's 1982 graphic novel of the same name. A freedom fighter goes by the name of "V" who attempts to start a revolution against a fascist regime that has a complete control over dystopian England during the late 2020s and sought out to kill its opponents from concentration camps (where "V" was subjected). Evey, a working-class woman found herself caught in "V"'s mission while Inspector Finch leads a pursue to stop "V".
 
 The Gunpowder Plot of 1605 (5 November 1605) is V's historical inspiration for the revolution against Adam Sutler's fascist regime.
 
-This film is highly recommended by [[FOTCM|FotCM]] as it portrays a totalitarian society more realistically than any other films thus far.
+This film is highly recommended by [[FOTCM|FOTCM]] as it portrays a totalitarian society more realistically than any other films thus far.
 
 As [[Laura Knight-Jadczyk]] wrote on [V for Vendetta](https://cassiopaea.org/forum/index.php/topic,623.0.html) thread at the Cassiopaea Forum:
 

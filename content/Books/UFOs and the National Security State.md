@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Dolan.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_UFOs and the National Security State_
+
 
 _**UFOs and the National Security State: Chronology of a Coverup, 1941-1973**_ by Richard M. Dolan is a compilation of historical material on the UFO phenomenon from the 1940's to the 70's. The book does not attempt to force an interpretation on events and primarily approaches the question through actual cases and the responses of various government and military agencies to these cases.
 

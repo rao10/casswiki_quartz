@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[G-Mission.jpg|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> _Georgi Ivanovitch Gurdjieff: The Man, the Teaching, His Mission_, 2014.
+
 
 _**Georgi Ivanovitch Gurdjieff: The Man, the Teaching, His Mission**_ is a comprehensive work of scholarship by William Patrick Patterson on the life and teachings of [[George Gurdjieff|Gurdjieff]] and [[Fourth Way|The Fourth Way]], published in 2014.
 

@@ -12,6 +12,5 @@ Scott Littleton and Linda Malcor suggest in their book _From Scythia to Camelot_
 See also
 --------
 
-*   Chretien de Troyes
 *   [[Grail]]
 *   [[Fisher King]]

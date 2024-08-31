@@ -1,8 +1,6 @@
 ![[fotcm_logo_500.png|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> _The Fellowship of the Cosmic Mind_
 
-**The Fellowship of the Cosmic Mind – Church of Revived PaleoChristianity** (FotCM) was founded in September 2009 as a nonprofit religious corporation.
+**The Fellowship of the Cosmic Mind – Church of Revived PaleoChristianity** (FOTCM) was founded in September 2009 as a nonprofit religious corporation.
 
 Mission
 -------

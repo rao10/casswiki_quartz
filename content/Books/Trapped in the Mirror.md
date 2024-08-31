@@ -1,12 +1,11 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Trapped.jpg|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> _Trapped in the Mirror_, 1995
+
 
 _**Trapped in the Mirror: Adult Children of Narcissists in their Struggle for Self**_ is a book by Elan Golomb, first published in 1992, which revealed the narcissism in the intrafamily relationships and struggle for self.
 
-This book is one of [[FOTCM|FotCM]] recommended readings and very important to understand ourselves as individuals. Are we independent or dependent individuals? Do we have our own "self" or a "self" created by our parents? This book brings about those issues and addressed the issue of narcissism in us, as well in others.
+This book is one of [[FOTCM|FOTCM]] recommended readings and very important to understand ourselves as individuals. Are we independent or dependent individuals? Do we have our own "self" or a "self" created by our parents? This book brings about those issues and addressed the issue of narcissism in us, as well in others.
 
 Narcissism is self-centered, and a narcissist sees the world as one wanted to see, not as it is. A narcissist has no care for others, but only for the self. Since we are living in a narcissist society, we would have some, if not all, narcissistic traits in ourselves and it became so without our becoming aware of them. Some of these traits include shamelessness, wishful thinking, arrogance, envy, entitlement, exploitation, and bad boundaries. When we can observe ourselves with the knowledge in this book, we can find these traits in ourselves and choose not to give into or identified with these traits.
 

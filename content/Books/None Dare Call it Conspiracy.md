@@ -1,9 +1,6 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Allenconspiracy.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_None Dare Call It Conspiracy_
 
 _**None Dare Call It Conspiracy**_ is a book by journalist Gary Allen with Larry Abraham, original published in 1971, with a preface by U.S. Representative John G. Schmitz. The book presents a picture that the current Western political and economic systems are the result of a extensive conspiracy by a psychopathic elite (whom the book refers to as "Insiders").
 

@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Women_Who_Love_Psychopaths.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Women Who Love Psychopaths_, 2010.
+
 
 _**Women Who Love Psychopaths: Inside the Relationships of Inevitable Harm With Psychopaths, Sociopaths & Narcissists**_ is a book by Sandra L. Brown, first published in 2008. It covers the dynamics between [[Psychopaths|psychopaths]] (and other character-disturbed people) and the victims who end up in relationships with them.
 

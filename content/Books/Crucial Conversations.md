@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[CrucialConversations.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Crucial Conversations_, 2012
+
 
 _**Crucial Conversations: Tools for Talking When Stakes Are High**_ is a business self-help book by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler, first published in 2002, which describes how to interact with others in a constructive way when "stakes are high, opinions vary, and emotions run strong".
 

@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[CatHoM.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Comets and the Horns of Moses_
+
 
 _**Comets and the Horns of Moses**_ is the second volume in the series _The Secret History of the World_ by [[Laura Knight-Jadczyk]], and was published in 2013.
 

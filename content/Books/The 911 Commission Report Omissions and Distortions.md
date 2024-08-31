@@ -1,8 +1,6 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[OmissionsDistortions.jpg|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> _The 9/11 Commission Report: Omissions and Distortions_
 
 _**The 9/11 Commission Report: Omissions and Distortions**_ is a book by theologian David Ray Griffin, originally published in 2005, which a direct critique of the _9/11 Commission Report_ - the "official report" of the events leading up to the September 11, 2001 attacks.
 

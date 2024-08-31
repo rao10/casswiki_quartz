@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[manyvoices.png|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> _Many Voices: The Autobiography of a Medium_, 1968
+
 
 _**Many Voices: The Autobiography of a Medium**_ is an autobiography by Eileen J. Garrett, first published in 1968.
 

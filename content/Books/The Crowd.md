@@ -1,9 +1,6 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[TheCrowd.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Crowd_, 2003 Edition
 
 _**The Crowd: A Study of the Popular Mind**_ is a pivotal work in the field of group psychology by French social psychologist Gustave Le Bon, first published in 1895, which studies the susceptibility of crowds to manipulation, control, and misdirection towards destructive ends.
 

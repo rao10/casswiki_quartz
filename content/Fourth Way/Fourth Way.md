@@ -7,9 +7,9 @@ The **Fourth Way** is a body of teaching on the possible spiritual development o
 Gurdjieff's teaching
 --------------------
 
-Within the Fourth Way teaching, the term Fourth Way is a path of spiritual development set apart from the three traditional ways, these being the Way of the Fakir, emphasizing the mastery of the physical body, the Way of the Monk, emphasizing mastery of emotions, and the Way of the Yogi, which emphasizes discipline of the mind. These different ways or approaches to spiritual development generally correspond to [[In Search of the Miraculous]]. The Fourth Way differs from these in that it seeks to simultaneously develop all three sides and to do so in the environment of ordinary life, whereas the three first ways all require from the beginning a complete abandoning of daily life and a seclusion into a monastic environment. The Fourth Way is sometimes therefore called the way of the 'sly man.' All the four ways may lead to the same understandings and may bring their practitioner from the 'outer circle' of humanity to the 'exoteric' and later 'mesoteric' and 'esoteric' [the three types of man]([[Exoteric, mesoteric, and esoteric circles]]).
+Within the Fourth Way teaching, the term Fourth Way is a path of spiritual development set apart from the three traditional ways, these being the Way of the Fakir, emphasizing the mastery of the physical body, the Way of the Monk, emphasizing mastery of emotions, and the Way of the Yogi, which emphasizes discipline of the mind. These different ways or approaches to spiritual development generally correspond to [[In Search of the Miraculous]]. The Fourth Way differs from these in that it seeks to simultaneously develop all three sides and to do so in the environment of ordinary life, whereas the three first ways all require from the beginning a complete abandoning of daily life and a seclusion into a monastic environment. The Fourth Way is sometimes therefore called the way of the 'sly man.' All the four ways may lead to the same understandings and may bring their practitioner from the 'outer circle' of humanity to the 'exoteric' and later 'mesoteric' and 'esoteric' [[Exoteric, mesoteric, and esoteric circles|the three types of man]].
 
-The Fourth Way teaching starts from the premise that man [circles]([[Reaction machine]]) and [is essentially mechanical]([[Free will]]) and true [[Consciousness|consciousness]] and freedom are only seldom realized possibilities. In the normal state man is subject to circumstance and passes his life [[Consciousness|consciousness]].
+The Fourth Way teaching starts from the premise that man [[Reaction machine|circles]] and [[Free will|is essentially mechanical]] and true [[Consciousness|consciousness]] and freedom are only seldom realized possibilities. In the normal state man is subject to circumstance and passes his life [[Consciousness|consciousness]].
 
 The term Work (usually with a capital 'W') refers to the ensemble of Fourth Way practices of work on the self introduced to the public by [[George Gurdjieff]].
 
@@ -22,7 +22,7 @@ Central concepts of the Fourth Way include:
 *   [[Self-remembering]]. A more conscious state in which man almost never lives.
 *   [[Centers (Fourth Way)|Centers]]
 *   [[Man number 1, 2, and 3]]. The fundamental "types" of exterior man, or the ways in which different persons are lopsided.
-*   [Inner fusion]([[Fusion (Fourth Way)]]). The means and process of creating a consistent, [Inner fusion]([[Real I]]).
+*   [[Fusion (Fourth Way)|Inner fusion]]. The means and process of creating a consistent, [[Real I|Inner fusion]].
 *   [[Cosmoses (Fourth Way)|Cosmoses or worlds]]. A cosmology of levels of existence, and the relation of humanity to all that exists.
 *   [[Hydrogens (Fourth Way)|Hydrogens]]. The substances of which all that exists are composed, and their role both in cosmology and the human machine.
 *   [[Food for the Moon|Hydrogens]]. Humanity's slavery, in which it serves as "food" for something at another level of existence.
@@ -35,7 +35,7 @@ Ouspensky's [[In Search of the Miraculous]] is probably the most concise and str
 
 The main works that Gurdjieff himself wrote are _[[Beelzebub's Tales to His Grandson]]_, and _[[Meetings with Remarkable Men]]_,[[Life Is Real Only Then, When ’I Am’|Life Is Real Only Then, When 'I Am']]. While they cover many aspects of his teaching, Ouspensky's account is more suitable as a first introduction and general overview.
 
-An extensive, structured presentation of the theory can also be found in [[Boris Mouravieff]]'s [[[Gnosis (book trilogy)|_Gnosis_ trilogy]]. This may well be the most complete presentation of the theory, though it lacks much of the practical insight and is colored by certain biases that Mouravieff had, along with a tendency towards overintellectualization. The three volumes are an excellent supplement to Ouspensky's account and Gurdjieff's own material, and are recommended as such.
+An extensive, structured presentation of the theory can also be found in [[Boris Mouravieff]]'s [[Gnosis (book trilogy)|Gnosis trilogy]]. This may well be the most complete presentation of the theory, though it lacks much of the practical insight and is colored by certain biases that Mouravieff had, along with a tendency towards overintellectualization. The three volumes are an excellent supplement to Ouspensky's account and Gurdjieff's own material, and are recommended as such.
 
 Other books have also been written by several students of Gurdjieff, as well as by students of students (e.g. students of Ouspensky). Generally, these tend to put their own "spin" on the teaching, the writers being selective in their focus and re-interpreting several concepts. Such books can be useful, but are best taken with a grain of salt, and not as a primary resource.
 
@@ -54,7 +54,7 @@ Gurdjieff had to hide many things behind allegory that the FOTCM is able to spea
 
 ### The role of Gurdjieff's teaching
 
-The Fourth Way teaching is recommended to and practiced by most members of the Cassiopaea.org community, as a way of seeing ourselves, others, and the world around us from a more [[Objectivity|objective]] perspective, rather than through the distorting prism of our own [subjectivity]([[Subjectivity]]. I.e., it is a way of working past our emotional issues, [programs]([[Program (Fourth Way)]]), [[Reaction machine|mechanical behaviour]], [buffers]([[Buffer (Fourth Way)]]), [[Sacred cow|sacred cows]], and [[Wishful thinking|wishful thinking]].
+The Fourth Way teaching is recommended to and practiced by most members of the Cassiopaea.org community, as a way of seeing ourselves, others, and the world around us from a more [[Objectivity|objective]] perspective, rather than through the distorting prism of our own [[Subjectivity|subjectivity]]. I.e., it is a way of working past our emotional issues, [[Program (Fourth Way)|programs]], [[Reaction machine|mechanical behaviour]], [[Buffer (Fourth Way)|Buffers]], [[Sacred cow|sacred cows]], and [[Wishful thinking|wishful thinking]].
 
 The Work benefits from active participation in a group/network like this, where others also involved in the Work can provide feedback and act as a [[Wishful thinking|wishful thinking]] in which we can see ourselves more clearly. The short Gurdjieffian text "[The First Initiation](https://cassiopaea.org/forum/index.php/topic,28065.0.html)" is a must read and explains, very concisely, the situation in which each of us finds him- or herself.
 
@@ -73,7 +73,7 @@ Further reading
 *   _[[Life Is Real Only Then, When ’I Am’|Life Is Real Only Then, When 'I Am']]_
 *   _[[Beelzebub's Tales to His Grandson]]_
 *   _[[Meetings with Remarkable Men]]_
-*   _[[Gnosis (book trilogy)|_Gnosis_ trilogy]]_
+*   _[[Gnosis (book trilogy)|Gnosis trilogy]]_
 
 References
 ----------
@@ -109,13 +109,13 @@ External links
 All ‘Fourth Way’ topics
 -----------------------
 
-*   [big five psychology books]([[200 conscious beings]]) (George Gurdjieff said that 200 people belonging to the esoteric circle of humanity could greatly change the world if they so chose.)
+*   [[200 conscious beings]] (George Gurdjieff said that 200 people belonging to the esoteric circle of humanity could greatly change the world if they so chose.)
 *   [[Adamic man]] (A human being who has an individuated soul.)
 *   [[200 conscious beings]] (In order to make progress in the Work, one must have an aim.)
 *   [[Aim]] (The horse-drawn coach is used as a metaphor for the human being.)
 *   [[Attention]] (Attention, like the focusing of a lens that directs light, is a power of the Will that can direct energy and activity.)
 *   [[Analogy of the coach]]
-*   [Bankruptcy (Fourth Way)]([[Hydrogens (Fourth Way)]]) (A turning point in life where one constates that the external life can no longer provide meaning to life.)
+*   [[Bankruptcy (Fourth Way)]] (A turning point in life where one constates that the external life can no longer provide meaning to life.)
 *   [[Being]] (Being is the togetherness of experience with an objective and a subjective aspect.)
 *   [[Being mentation]] (Refers to thinking beyond the passive associative mechanism of the brain by the effort of the will.)
 *   [[Black magnetic center]] (A perversion of the magnetic center, forming through and pulling a man towards a self-serving caricature of genuine esoteric work.)
@@ -189,7 +189,7 @@ All ‘Fourth Way’ topics
 *   [[Sheep]] (Gurdjieff's allegory of Human Beings manifesting the group characteristic of "sheep")
 *   [[Shock (Fourth Way)]] (In the Fourth Way teaching, shocks are necessary for the development of man, and also play an important role in cosmology.)
 *   [[Soul]] (Whatever part of a person is permanent and survives physical death.)
-*   [Staircase (Fourth Way)]([[Shock (Fourth Way)]]) (The Staircase corresponds to four notes, SI, LA, SOL, and FA of the Way.)
+*   [[Staircase (Fourth Way)]] (The Staircase corresponds to four notes, SI, LA, SOL, and FA of the Way.)
 *   [[Strategic enclosure]] (A practice that should be engaged in by every seeker of truth. It has both an external aspect, which is to employ a kind of "strategic silence", and an internal aspect, which is to always maintain a beneficial inner – or psychological – environment.)
 *   [Thresholds (Thresholds (Fourth Way)) (Mouravieff distinguishes three thresholds in esoteric development.)
 *   [[Waking sleep or confluence]] (Designate a peculiar hypnotic state in man where he is identified with the mental currents that flow through him and mistaking the thoughts that are engendered from this current as his own thoughts.)

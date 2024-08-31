@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[ponerology.jpg|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Political Ponerology_, 2006
+
 
 _**Political Ponerology: A Science on the Nature of Evil Adjusted for Political Purposes**_ is an essential book by Polish psychiatrist [[Andrew M. Lobaczewski|Andrzej Łobaczewski]] (Andrew Łobaczewski), published in 2006 by Red Pill Press(RPP).
 

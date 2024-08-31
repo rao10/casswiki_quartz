@@ -10,8 +10,7 @@ The distribution of cometary orbits shows, under statistical analysis clustering
 According to the Cassiopaean material, the next entry of the comet cluster into the inner solar system will closely coincide with [[The Wave|the Wave]] – and since 2005 the number of fireballs, according to observations gathered by the American Meteor Society, have increased exponentially.
 
 ![[Cometcluster.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
+
 There is geological evidence for periodic cataclysmic impact events on Earth. Greenland ice cores show an increase in atmospheric dust with a period of approximately 3600 years. This could be attributed to periodic asteroid or comet impact events.
 
 See also

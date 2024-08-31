@@ -5,7 +5,7 @@ The term **negative emotion** has a special meaning in [[Fourth Way]] parlance. 
 
 Firstly, negative emotion refers to what is generally called negative emotion, such as anger, fear, jealousy, envy etc.
 
-Secondly, especially as used by the [[FOTCM|FotCM]], the word can also indicate an emotion that does not accord with [[Objectivity|objective]] reality. This has nothing to do with whether the emotion is perceived as agreeable or not. Feeling happy as a result of [[Self-calming|self-calming]] or deliberately inducing oneself to believe in an illusion as an example of negative emotion in this sense.
+Secondly, especially as used by the [[FOTCM|FOTCM]], the word can also indicate an emotion that does not accord with [[Objectivity|objective]] reality. This has nothing to do with whether the emotion is perceived as agreeable or not. Feeling happy as a result of [[Self-calming|self-calming]] or deliberately inducing oneself to believe in an illusion as an example of negative emotion in this sense.
 
 Non-expression of negative emotions is an important precept of the Fourth Way. This does not mean that these should be ignored, quite the opposite. However, the energy of these emotions should not be wasted in mechanically expressing these but should rather be transformed and kept within the organism. This offers an opportunity for self-knowledge and saves energy which is then available for transformation.
 

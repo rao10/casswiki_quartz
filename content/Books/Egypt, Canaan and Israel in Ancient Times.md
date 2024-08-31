@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Redford.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Egypt, Canaan and Israel in Ancient Times_, 1992
+
 
 _**Egypt, Canaan and Israel in Ancient Times**_ is a scholarly work by Egyptologist Donald B. Redford, first published in 1992, which explores the relationship between Egypt and Canaan/Palestine/Israel from prehistory down to the destruction of Jerusalem in 586 B.C.
 

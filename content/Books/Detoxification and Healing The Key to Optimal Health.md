@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[RogersDetoxify.png|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> _Detoxification and Healing_, 2003 Edition
+
 
 _**Detoxification and Healing: The Key to Optimal Health**_ is a book by Sidney MacDonald Baker, M.D., published in 1997, which introduces the reader to detoxification and healing, and how detoxification advances wellness by ridding the body of toxics that can lead to a host of health issues ranging from fatigue and depression to cancer and diabetes.
 

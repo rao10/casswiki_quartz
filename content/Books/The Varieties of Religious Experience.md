@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[TVoRE.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Varieties of Religious Experience_, 1958
+
 
 _**The Varieties of Religious Experience: A Study in Human Nature**_ is a book by psychologist and philosopher William James, first published in 1902.
 

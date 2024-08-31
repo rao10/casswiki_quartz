@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[HostageToTheDevil.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Hostage to the Devil_
+
 
 _**Hostage to the Devil: The Possession and Exorcism of Five Contemporary Americans**_ is a book by Malachi Martin, first published in 1976, which is a chilling and convincing account of possession and exorcism in modern America.
 
@@ -11,7 +9,7 @@ This book revealed the cases of five individuals possessed by demonic spirits, i
 
 It is an essential reading to understand the dynamic involved and the effects of the "Presence" on the priests doing these exorcisms, and one can see some of the things that an entity(s) had done that can latch onto the parts of ourselves that we considered to be our [[Predator's mind]]. Not only that, the circumstances and the backgrounds of both the exorcists and the possessed individuals revealed how much gap they had had in their knowledge base, which eventually and evidently "invites" these entities.
 
-The [[FOTCM|FotCM]] does not recommend this book to anyone who lacks really good spiritual defenses, which means a LOT of knowledge.
+The [[FOTCM|FOTCM]] does not recommend this book to anyone who lacks really good spiritual defenses, which means a LOT of knowledge.
 
 [[Laura Knight-Jadczyk]] once wrote about this book:[\[1\]](#cite_note-1)
 

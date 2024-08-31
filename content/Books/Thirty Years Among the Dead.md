@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[TYATD.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Thirty Years Among the Dead_, 2011
+
 
 _**Thirty Years Among the Dead**_ by psychiatrist and psychical researcher Carl A. Wickland, first published in 1924, is a classic and one of the most important works on spirit possessions and channeling.
 

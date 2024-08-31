@@ -1,9 +1,6 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[SecretProuty.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Secret Team_
 
 _**The Secret Team: The CIA and Its Allies in Control of the United States and the World**_ is a book by L. Fletcher Prouty, first published in 1973, which exposes the covert activities of the Central Intelligence Agency (CIA) and their brutal methods of maintaining national security during the Cold War.
 

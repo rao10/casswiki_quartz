@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[CosmicWinter.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Cosmic Winter_, 1990
+
 
 _**The Cosmic Winter**_ is a book by Victor Clube, published in 1990 in collaboration with astronomer Bill Napier. It runs for 280 pages and consists of seventeen chapters. This book is close to as being an expansion of their first book, _[[The Cosmic Serpent]]_.
 

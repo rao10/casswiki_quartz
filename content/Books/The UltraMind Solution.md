@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[HymanUltraMind.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The UltraMind Solution_, 2009 Edition
+
 
 _**The UltraMind Solution: Fix Your Broken Brain by Healing Your Body First - The Simple Way to Defeat Depression, Overcome Anxiety, and Sharpen Your Mind**_ is a book by Mark Hyman, M.D., first published in 2008, which is about how to restore and improve one's brain function by restoring and improving one's health.
 

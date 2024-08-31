@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[CosmicSerpent.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Cosmic Serpent_, 1982
+
 
 _**The Cosmic Serpent**_ is a book by Victor Clube, published in 1982 in collaboration with astronomer Bill Napier. It runs for roughly 280 pages and eleven chapters. This book was followed by _[[The Cosmic Winter]]_.
 

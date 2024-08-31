@@ -3,6 +3,8 @@ order-number: 2
 ---
 > [!info] Part of the Casswiki article series [[Books]]
 
+![[911ultimatetruth.png|hsmall center ]]
+
 
 _**9/11: The Ultimate Truth**_ is a tome by [[Laura Knight-Jadczyk]] and Joe Quinn, first published in 2006 with a revived edition in 2013.
 

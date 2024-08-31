@@ -6,8 +6,8 @@ In [[Fourth Way]] discourse, the **magnetic center** is a function of [[Discernm
 The magnetic center is the seat of [[Discernment|discernment]] between influences which lead to esoteric development and influences which lead to submersion in illusions offered by the outer world. (See [[A, B, and C influences]].) It guides esoteric development while itself being formed and strengthened by this development.
 
 ![[Gnosis_I_Figure_20.png|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> Diagram from [[Gnosis (book trilogy)|_Gnosis_]] book one. The big circle is the world, the small black arrows are A-influences, and the thicker arrows are B-influences. Each smaller circle inside the big circle is a stage of development of the magnetic center, which absorbs B-influences and eventually leads man into contact with the esoteric center, the separate circle on the right.
+
+Diagram from [[Gnosis (book trilogy)|_Gnosis_]] book one. The big circle is the world, the small black arrows are A-influences, and the thicker arrows are B-influences. Each smaller circle inside the big circle is a stage of development of the magnetic center, which absorbs B-influences and eventually leads man into contact with the esoteric center, the separate circle on the right.
 
 A-influences surround man from the time he is born, and are the influences "of this world". B-influences have their origin in the esoteric center which is "not of this world"; by absorbing these, the magnetic center forms, and begins to lead man towards further B-influences and eventually towards contact with the esoteric center itself.
 

@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[SexLiesMenopause.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Sex, Lies, and Menopause_
+
 
 _**Sex, Lies, and Menopause: The Shocking Truth About Synthetic Hormones and the Benefits of Natural Alternatives**_ is a book by T. S. Wiley with Julie Taguchi and Bent Formby, published in 2003, which is about about the necessity of natural hormone replacement with bio-identical hormones taken in rythmic cylical doses.
 

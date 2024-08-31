@@ -1,8 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Ramaterial.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> _The Ra Material_, 1984
+
 
 _**The Ra Material**_ (later editions changed the title to _**The Law of One**_) is a collected series of transcripts in five books, of more than 100 sessions with the channeled entity named [[Ra]], channeled by Carla Rueckert with Don Elkins and Jim Mc Carthy during the period from 1981 to 1984.
 

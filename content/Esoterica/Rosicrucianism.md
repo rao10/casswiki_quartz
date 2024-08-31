@@ -1,11 +1,5 @@
 
-> [!info] Part of the Casswiki article series [[Esoterica]]
-
-Esoterica
-
-> [!info] Part of the Casswiki article series
-
-Religion
+> [!info] Part of the Casswiki article series [[Esoterica]] and [[Religion]]
 
 The term **Rosicrucianism** came into use as a result of 2 anonymously published manifestos, the _Fama Fraternitatis_ and the _Confessio Fraternitatis_ in 1614 or thereabouts. The texts were published in German and Latin. The _Chymical Wedding of Christian Rosenkreutz_ followed later.
 

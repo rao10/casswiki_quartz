@@ -1,9 +1,6 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Life_Without_Bread.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Life Without Bread_, 2000.
 
 _**Life Without Bread**_ is a book by Christian B. Allan and Wolfgang Lutz, first published in 2000. It is the latest English edition of Lutz' work. It describes a low-carb [[Diet|diet]] approach, and the clinical findings and metabolic knowledge on which it is based, in an easily read way.
 

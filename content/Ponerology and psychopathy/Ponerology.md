@@ -1,6 +1,6 @@
 > [!info] Part of the Casswiki article series [[Ponerology and psychopathy]]
 
-**Ponerology** is the term coined by Polish clinical psychologist [Andrzej M. Łobaczewski]([[Andrew M. Lobaczewski]]) to mean the objective scientific study of the nature of evil, based on its representation within the world of psychopathology and politics. The framework and basic research for such a study is laid out in his book _[Political Ponerology: A science on the nature of evil adjusted for political purposes]([[Political Ponerology]])_.
+**Ponerology** is the term coined by Polish clinical psychologist [[Andrew M. Lobaczewski|Andrzej M. Łobaczewski]] to mean the objective scientific study of the nature of evil, based on its representation within the world of psychopathology and politics. The framework and basic research for such a study is laid out in his book _[Political Ponerology: A science on the nature of evil adjusted for political purposes]([[Political Ponerology]])_.
 
 The word ponerology (from the ancient Greek _poneros_ – evil; and _\-λογία_, _\-ology_ – study) can also refer to the branch of theology dealing with evil. This article is only concerned with the newer meaning, which refers to the scientific field named by Dr. Łobaczewski.
 

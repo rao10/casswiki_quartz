@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Unleashed.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Unleashed: Of Poltergeists and Murder: The Curious Story of Tina Resch_, 2004
+
 
 _**Unleashed: Of Poltergeists and Murder: The Curious Story of Tina Resch**_ is a book by parapsychologist William Roll and Valerie Storey, published in 2004, which is Tina Resch's story as told by a parapsychologist who witnessed striking paranormal phenomena in Tina's presence and sobering examination of a child's mysterious murder.
 

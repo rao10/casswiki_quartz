@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Social_Intelligence.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Social Intelligence_, international edition.
+
 
 _**Social Intelligence: The New Science of Human Relationships**_ is a book by Daniel Goleman, first published in 2006. It explains findings of social neuroscience in an easily understood way. Goleman uses simple explanations, analogies, and stories to illustrate how our brains are shaped for the social world and how we tick.
 

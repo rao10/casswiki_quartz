@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[When_the_Body_Says_No.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_When the Body Says No_, 2011 edition
+
 
 _**When the Body Says No**_ is a book by Gabor Maté which explores the connection between chronic stress and illness. It was first published in 2003.
 

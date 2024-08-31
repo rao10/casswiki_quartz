@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Defense_Against_the_Psychopath.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Defense Against the Psychopath_.
+
 
 _**Defense Against the Psychopath: A Brief Introduction to Human Predators**_ is a short text about [[Psychopaths|psychopaths]], written by Stefan H. Verstappen, and published as part of his book _The Art of Urban Survival_. It can serve as a quick primer on the subject of psychopathy, including the roles psychopaths can play in society, and awareness of them so as to be able to protect oneself.
 

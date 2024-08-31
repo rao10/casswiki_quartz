@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[DenialDeath.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Denial of Death_, 1997 Edition
+
 
 _**The Denial of Death**_ is a classic work by cultural anthropologist Ernest Becker, first published in 1973, which concerns the fact that the humanity is a symbolic defense mechanism against the knowledge of its mortality and, in turn, acts as the emotional and intellectual response to its basic survival mechanism. In short, the idea of death - the all-consuming fear of death - is the most basic motivation for human behavior. Due to the fact that the terror of death is so overwhelming, the human beings conspire to keep it unconscious and became the drive to "heroics" - to build a family, to create arts, to find "success" within society, to leave a "legacy", _et-cetera_.
 

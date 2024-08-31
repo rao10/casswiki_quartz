@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Redirect_The_Surprising_New_Science_of_Psychological_Change.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Redirect: The Surprising New Science of Psychological Change_, 2011.
+
 
 _**Redirect**_ is a book by Timothy D. Wilson, first published in 2011 as _Redirect: The Surprising New Science of Psychological Change_. It describes how the attitudes and behaviors of people can be changed by influencing the stories – or narratives – they tell themselves.
 

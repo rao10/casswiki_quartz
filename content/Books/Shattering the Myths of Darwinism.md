@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[MiltonDarwinism.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Shattering the Myths of Darwinism_
+
 
 _**Shattering the Myths of Darwinism**_ is a book by Richard Milton, originally published in United Kingdom in 1992 as _Facts of Life: Shattering the Myths of Darwinism_, which re-evaluates the Darwinist evolutionary mechanism of the natural selection of genetic mutations.
 

@@ -3,8 +3,6 @@
 
 
 ![[ketogenicdiet.png|hsmall center ]] 
-> [!caption|center no-title no-icon no-margin ]
-> An example of a healthy breakfast.
 
 A **ketogenic diet** is one which is very low in carbohydrates and very high in fat, and in which the body switches to a ketogenic metabolism. Instead of fueling itself mainly with carbohydrates, the body fuels itself mainly with fat and ketones. It is the most healthy diet we know of, though some (often older people) have problems adapting to it.
 

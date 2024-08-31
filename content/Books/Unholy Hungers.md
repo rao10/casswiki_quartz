@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Unholyh.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Unholy Hunger_, 1996
+
 
 _**Unholy Hungers: Encountering the Psychic Vampire in Ourselves & Others**_ is a book by Jungian counselor Barbara E. Hort, published in 1996.
 

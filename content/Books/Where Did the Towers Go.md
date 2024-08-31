@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[Where_Did_the_Towers_Go.jpg|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_Where Did the Towers Go?_
+
 
 _**Where Did the Towers Go? Evidence of Directed Free-energy Technology on 9/11**_ is a book by Judy D. Wood, first published in 2010, which presents a theory that the Twin Towers of the World Trade Center on 11 September 2001 did not collapse but were "dustified" by a directed energy weapon.
 

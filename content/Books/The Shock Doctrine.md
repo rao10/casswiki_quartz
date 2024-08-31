@@ -1,9 +1,7 @@
 > [!info] Part of the Casswiki article series [[Books]]
 
 ![[ShockKlein.png|hsmall center]]
-> [!caption|center no-title no-icon no-margin ]
-> 
-_The Shock Doctrine_, 2007
+
 
 _**The Shock Doctrine: The Rise of Disaster Capitalism**_ is a book by Naomi Klein, published in 2007, which explains the origins and objectives of "disaster capitalism" and reveals the systematic practice of how populations, first rendered vulnerable by means of traumatic shock, are then exploited for the sake of pathological greed.
 
